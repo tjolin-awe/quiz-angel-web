@@ -1,0 +1,4438 @@
+{
+    "quiz_length": 5,
+    "levels": [
+        {
+            "number": 1,
+            "name": "Level 01",
+            "rank": "Private Angel",
+            "rank_texture": "girl",
+            "level_message": "Good Job!",
+            "character_spritesheet": "level1",
+            "award_texture": "helmet",
+            "award_desc": "The Helmet of Salvation",
+            "award_verse": "Take the helmet of salvation...",
+            "background": "background",
+            "quiz": [
+                {
+                    "question": "Whom do we have to believe in in order to go to heaven?",
+                    "correct_picture": "Mini Jesus Colour.png",
+                    "additional_info": "You will go to heaven if you believe in Jesus and accept what He did for you. It is that simple!",
+                    "info_fontsize": 36,
+                    "effect_texture": "heart",
+                    "effect_method": "floataway",
+                    "characters": [
+                        {
+                            "name": "Jesus",
+                            "picture": "Mini Jesus Colour.png",
+                            "scale": 0.6,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Moses",
+                            "picture": "Moses.png",
+                            "scale": 0.6,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Elisha",
+                            "picture": "Elisha the Prophet Colour.png",
+                            "scale": 0.6,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Mary",
+                            "picture": "Mary Mother Colour.png",
+                            "scale": 0.38,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        }
+                    ]
+                },
+                {
+                    "question": "Who was Jesus' mother?",
+                    "correct_picture": "Mary Mother Colour.png",
+                    "additional_info": "Jesus was fully human, but he is also fully God!",
+                    "info_fontsize": 36,
+                    "characters": [
+                        {
+                            "name": "Mary",
+                            "picture": "Mary Mother Colour.png",
+                            "scale": 0.38,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Martha",
+                            "picture": "Martha Colour.png",
+                            "scale": 0.5,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Sarah",
+                            "picture": "Sarah.png",
+                            "scale": 0.55,
+                            "xoffset": -15,
+                            "yoffset": -5,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Ruth",
+                            "picture": "Ruth Colour.png",
+                            "scale": 0.55,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        }
+                    ]
+                },
+                {
+                    "question": "Whose name literally means \"God Saves\"?",
+                    "correct_picture": "Jesus Christ.png",
+                    "additional_info": "Jesus is who He says He is and He saved us!",
+                    "info_fontsize": 36,
+                    "effect_texture": "heart",
+                    "effect_method": "slowemit",
+                    "characters": [
+                        {
+                            "name": "Jesus",
+                            "picture": "Jesus Christ.png",
+                            "scale": 0.55,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Paul",
+                            "picture": "Apostle Paul.png",
+                            "scale": 0.5,
+                            "xoffset": 10,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Peter",
+                            "picture": "Peter Colour.png",
+                            "scale": 0.6,
+                            "xoffset": 0,
+                            "yoffset": -5,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Moses",
+                            "picture": "Moses.png",
+                            "scale": 0.6,
+                            "xoffset": 5,
+                            "yoffset": -5,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        }
+                    ]
+                },
+                {
+                    "question": "Jesus' earthly father was who?",
+                    "correct_picture": "Joseph Mary Colour.png",
+                    "additional_info": "Although He lived a human life, Jesus is the Son of God!",
+                    "info_fontsize": 36,
+                    "characters": [
+                        {
+                            "name": "Joseph",
+                            "picture": "Joseph Mary Colour.png",
+                            "scale": 0.5,
+                            "xoffset": -5,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "John the Baptist",
+                            "picture": "John the Baptist.png",
+                            "scale": 0.55,
+                            "xoffset": 10,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 30
+                        },
+                        {
+                            "name": "Elijah",
+                            "picture": "Elijah2.png",
+                            "scale": 0.65,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Peter",
+                            "picture": "Peter Colour.png",
+                            "scale": 0.6,
+                            "xoffset": 0,
+                            "yoffset": -5,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        }
+                    ]
+                },
+                {
+                    "question": "Who baptized Jesus in the Jordan River?",
+                    "correct_picture": "John the Baptist.png",
+                    "additional_info": "Jesus told John to baptize Him so that what God requires would be done.",
+                    "info_fontsize": 36,
+                    "characters": [
+                        {
+                            "name": "John the Baptist",
+                            "picture": "John the Baptist.png",
+                            "scale": 0.55,
+                            "xoffset": 10,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 30
+                        },
+                        {
+                            "name": "Joseph",
+                            "picture": "Joseph Mary Colour.png",
+                            "scale": 0.5,
+                            "xoffset": -5,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Mary",
+                            "picture": "Mary Mother Colour.png",
+                            "scale": 0.38,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Elisha",
+                            "picture": "Elisha the Prophet Colour.png",
+                            "scale": 0.6,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        }
+                    ]
+                },
+                {
+                    "question": "Who is the Son of God?",
+                    "correct_picture": "Jesus Baptism 2.png",
+                    "additional_info": "When Jesus was baptized a voice from heaven said \"This is my dearly loved Son, who brings me great joy.\"",
+                    "info_fontsize": 36,
+                    "effect_texture": "heart",
+                    "effect_method": "slowemit",
+                    "characters": [
+                        {
+                            "name": "Jesus",
+                            "picture": "Jesus Baptism 2.png",
+                            "scale": 0.6,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "John the Baptist",
+                            "picture": "John the Baptist.png",
+                            "scale": 0.55,
+                            "xoffset": 10,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 30
+                        },
+                        {
+                            "name": "Moses",
+                            "picture": "Moses.png",
+                            "scale": 0.6,
+                            "xoffset": 5,
+                            "yoffset": -5,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "David",
+                            "picture": "David.png",
+                            "scale": 0.5,
+                            "xoffset": -5,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        }
+                    ]
+                },
+                {
+                    "question": "In exchange for 30 pieces of silver, who betrayed Jesus?",
+                    "correct_picture": "Judas Colour.png",
+                    "additional_info": "Jesus lived a perfect, sinless life. Those He came to save rejected him and betrayed him.",
+                    "info_fontsize": 36,
+                    "characters": [
+                        {
+                            "name": "Peter",
+                            "picture": "Peter Colour.png",
+                            "scale": 0.6,
+                            "xoffset": -5,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Judas",
+                            "picture": "Judas Colour.png",
+                            "scale": 0.45,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Paul",
+                            "picture": "Apostle Paul.png",
+                            "scale": 0.5,
+                            "xoffset": 10,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Mary Magdalene",
+                            "picture": "Mary Magdalene Colour.png",
+                            "scale": 0.4,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 28
+                        }
+                    ]
+                },
+                {
+                    "question": "Who denied Jesus three times before the rooster crowed twice?",
+                    "correct_picture": "Peter Colour.png",
+                    "additional_info": "Because He loves us, Jesus chose to take the punishment for our mistakes.",
+                    "info_fontsize": 36,
+                    "characters": [
+                        {
+                            "name": "Peter",
+                            "picture": "Peter Colour.png",
+                            "scale": 0.6,
+                            "xoffset": -5,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Paul",
+                            "picture": "Apostle Paul.png",
+                            "scale": 0.5,
+                            "xoffset": 10,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Joseph",
+                            "picture": "Joseph Mary Colour.png",
+                            "scale": 0.5,
+                            "xoffset": -5,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Judas",
+                            "picture": "Judas Colour.png",
+                            "scale": 0.45,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        }
+                    ]
+                },
+                {
+                    "question": "According to the Bible, who ordered Jesus to be crucified?",
+                    "correct_picture": "Pilate Colour.png",
+                    "additional_info": "The crucification of Jesus was also documented in historical documents by the Roman Senator Tacticus.",
+                    "info_fontsize": 34,
+                    "characters": [
+                        {
+                            "name": "Pontius Pilate",
+                            "picture": "Pilate Colour.png",
+                            "scale": 0.6,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Paul",
+                            "picture": "Apostle Paul.png",
+                            "scale": 0.5,
+                            "xoffset": 10,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "King Herod",
+                            "picture": "Herod Colour.png",
+                            "scale": 0.55,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Judas",
+                            "picture": "Judas Colour.png",
+                            "scale": 0.45,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        }
+                    ]
+                },
+                {
+                    "question": "Who frees us from the power of sin and death?",
+                    "correct_picture": "Jesus on Cross Colour.png",
+                    "additional_info": "Jesus was victorious! His grace and mercy have set us free.",
+                    "info_fontsize": 36,
+                    "characters": [
+                        {
+                            "name": "Moses",
+                            "picture": "Moses.png",
+                            "scale": 0.6,
+                            "xoffset": 5,
+                            "yoffset": -5,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Elijah",
+                            "picture": "Elijah2.png",
+                            "scale": 0.65,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Abraham",
+                            "picture": "Abraham.png",
+                            "scale": 0.5,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Jesus",
+                            "picture": "Jesus on Cross Colour.png",
+                            "scale": 0.45,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "number": 2,
+            "name": "Level 02",
+            "rank": "Specialist Angel",
+            "rank_texture": "girl_helmet",
+            "level_message": "Well Done!",
+            "character_spritesheet": "level1",
+            "award_texture": "boots",
+            "award_desc": "Boots of Peace",
+            "award_verse": "...and with your feet fitted with the readiness that comes from the gospel of peace.",
+            "background": "background",
+            "quiz": [
+                {
+                    "question": "Who said \"Destroy this temple, and I will raise it again in three days\"?",
+                    "correct_picture": "Jesus Ascending Colour.png",
+                    "additional_info": "Three days after His death, Jesus rose from the dead. He was referring to Himself as the temple!",
+                    "info_fontsize": 36,
+                    "characters": [
+                        {
+                            "name": "Jesus",
+                            "picture": "Jesus Ascending Colour.png",
+                            "scale": 0.5,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Lazarus",
+                            "picture": "Lazarus risen Colour.png",
+                            "scale": 0.5,
+                            "xoffset": 5,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "David",
+                            "picture": "David King.png",
+                            "scale": 0.45,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Nicodemus",
+                            "picture": "Teacher Colour.png",
+                            "scale": 0.5,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        }
+                    ]
+                },
+                {
+                    "question": "Who wrote \"The Spirit of God, who raised Jesus from the dead, lives in you\"?",
+                    "correct_picture": "Apostle Paul.png",
+                    "additional_info": "Through Jesus, we too have this awesome promise of eternal life!",
+                    "info_fontsize": 36,
+                    "characters": [
+                        {
+                            "name": "Paul",
+                            "picture": "Apostle Paul.png",
+                            "scale": 0.5,
+                            "xoffset": 10,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Jesus",
+                            "picture": "Mini Jesus Colour.png",
+                            "scale": 0.6,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Peter",
+                            "picture": "Peter Colour.png",
+                            "scale": 0.6,
+                            "xoffset": -5,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Moses",
+                            "picture": "Moses.png",
+                            "scale": 0.6,
+                            "xoffset": 5,
+                            "yoffset": -5,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        }
+                    ]
+                },
+                {
+                    "question": "To whom did Jesus say \"I am the resurrection and the life. The one who believes in me will live, even though they die\"?",
+                    "correct_picture": "Martha Colour.png",
+                    "additional_info": "For believers, this is very good news!",
+                    "info_fontsize": 36,
+                    "characters": [
+                        {
+                            "name": "Martha",
+                            "picture": "Martha Colour.png",
+                            "scale": 0.5,
+                            "xoffset": -5,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Lazarus",
+                            "picture": "Lazarus risen Colour.png",
+                            "scale": 0.5,
+                            "xoffset": 5,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Peter",
+                            "picture": "Peter Colour.png",
+                            "scale": 0.6,
+                            "xoffset": 0,
+                            "yoffset": -5,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "John the Baptist",
+                            "picture": "John the Baptist.png",
+                            "scale": 0.55,
+                            "xoffset": 10,
+                            "yoffset": 0,
+                            "labelxoffset": -5,
+                            "labelyoffset": 0,
+                            "fontSize": 30
+                        }
+                    ]
+                },
+                {
+                    "question": "Who wrote \"...God’s love has been poured out into our hearts through the Holy Spirit, who has been given to us\"?",
+                    "correct_picture": "Apostle Paul.png",
+                    "additional_info": "The Holy Spirit is God and He lives within us! More good news!",
+                    "info_fontsize": 36,
+                    "characters": [
+                        {
+                            "name": "Paul",
+                            "picture": "Apostle Paul.png",
+                            "scale": 0.5,
+                            "xoffset": 10,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Nicodemus",
+                            "picture": "Teacher Colour.png",
+                            "scale": 0.5,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Peter",
+                            "picture": "Peter Colour.png",
+                            "scale": 0.6,
+                            "xoffset": 0,
+                            "yoffset": -5,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Samuel",
+                            "picture": "Samuel Colour.png",
+                            "scale": 0.55,
+                            "xoffset": 10,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        }
+                    ]
+                },
+                {
+                    "question": "Who said \"I wish that all the LORD’s people were prophets and that the LORD would put his Spirit upon them all!\"?",
+                    "correct_picture": "Moses.png",
+                    "additional_info": "God did exactly that! He put His Spirit within us! That's pretty cool!",
+                    "info_fontsize": 36,
+                    "characters": [
+                        {
+                            "name": "Moses",
+                            "picture": "Moses.png",
+                            "scale": 0.6,
+                            "xoffset": 5,
+                            "yoffset": -5,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Jesus",
+                            "picture": "Mini Jesus Colour.png",
+                            "scale": 0.6,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Elijah",
+                            "picture": "Elijah2.png",
+                            "scale": 0.65,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Samuel",
+                            "picture": "Samuel Colour.png",
+                            "scale": 0.55,
+                            "xoffset": 10,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        }
+                    ]
+                },
+                {
+                    "question": "Who said \"...He will give you another Helper. He will be with you forever. He is the Spirit of Truth.\"?",
+                    "correct_picture": "Jesus Teaching Colour.png",
+                    "additional_info": "The Holy Spirit leads us into all truth. He helps us live as God intended!",
+                    "info_fontsize": 36,
+                    "characters": [
+                        {
+                            "name": "Jesus",
+                            "picture": "Jesus Teaching Colour.png",
+                            "scale": 0.6,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Moses",
+                            "picture": "Moses.png",
+                            "scale": 0.6,
+                            "xoffset": 5,
+                            "yoffset": -5,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Elisha",
+                            "picture": "Elisha the Prophet Colour.png",
+                            "scale": 0.6,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Nathan",
+                            "picture": "Nathan Colour.png",
+                            "scale": 0.6,
+                            "xoffset": 5,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        }
+                    ]
+                },
+                {
+                    "question": "Who declared that \"The Spirit of the Lord spoke by me, and His word was on my tongue.\"?",
+                    "correct_picture": "David Warrior Colour.png",
+                    "additional_info": "Archaeologists consistently find evidence that biblical stories are true. The ancient \"City of David\" was discovered in 1867 proving David was a real person.",
+                    "info_fontsize": 30,
+                    "characters": [
+                        {
+                            "name": "David",
+                            "picture": "David Warrior Colour.png",
+                            "scale": 0.5,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Gideon",
+                            "picture": "Gideon.png",
+                            "scale": 0.6,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Hannah",
+                            "picture": "Hannah Colour.png",
+                            "scale": 0.45,
+                            "xoffset": 0,
+                            "yoffset": -10,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Joshua",
+                            "picture": "Joshua.png",
+                            "scale": 0.5,
+                            "xoffset": 0,
+                            "yoffset": -10,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        }
+                    ]
+                },
+                {
+                    "question": "Who anointed David's head with oil?",
+                    "correct_picture": "Samuel Colour.png",
+                    "additional_info": "\"So Samuel took the horn of oil and anointed him...and from that day on the Spirit of the Lord came powerfully upon David.\"",
+                    "info_fontsize": 32,
+                    "characters": [
+                        {
+                            "name": "Samuel",
+                            "picture": "Samuel Colour.png",
+                            "scale": 0.55,
+                            "xoffset": 10,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Moses",
+                            "picture": "Moses.png",
+                            "scale": 0.6,
+                            "xoffset": 5,
+                            "yoffset": -5,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Esther",
+                            "picture": "Esther Colour.png",
+                            "scale": 0.45,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Ruth",
+                            "picture": "Ruth Colour.png",
+                            "scale": 0.55,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        }
+                    ]
+                },
+                {
+                    "question": "What prophet, the wife of Lappidoth, led Israel in the Book of Judges?",
+                    "correct_picture": "Deborah.png",
+                    "additional_info": "God gives all His people special insight, wisdom and knowledge.",
+                    "info_fontsize": 36,
+                    "characters": [
+                        {
+                            "name": "Deborah",
+                            "picture": "Deborah.png",
+                            "scale": 0.6,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Sarah",
+                            "picture": "Sarah.png",
+                            "scale": 0.55,
+                            "xoffset": -15,
+                            "yoffset": -5,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Esther",
+                            "picture": "Esther Colour.png",
+                            "scale": 0.45,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Ruth",
+                            "picture": "Ruth Colour.png",
+                            "scale": 0.55,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        }
+                    ]
+                },
+                {
+                    "question": "Who said: \"...But you will receive power when the Holy Spirit comes on you\"?",
+                    "correct_picture": "Jesus Welcome.png",
+                    "additional_info": "The Holy Spirit gives us power to reach other people! God wants us to tell them the good news about what Jesus did for us!",
+                    "info_fontsize": 34,
+                    "characters": [
+                        {
+                            "name": "Jesus",
+                            "picture": "Jesus Welcome.png",
+                            "scale": 0.6,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Samuel",
+                            "picture": "Samuel Colour.png",
+                            "scale": 0.55,
+                            "xoffset": 10,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Mary Magdalene",
+                            "picture": "Mary Magdalene Colour.png",
+                            "scale": 0.4,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 28
+                        },
+                        {
+                            "name": "Deborah",
+                            "picture": "Deborah.png",
+                            "scale": 0.6,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "number": 3,
+            "name": "Level 03",
+            "rank": "Corporal Angel",
+            "rank_texture": "girl_boots",
+            "level_message": "Amazing!",
+            "character_spritesheet": "level1",
+            "award_texture": "breastplate",
+            "award_desc": "Breastplate of Righteousness",
+            "award_verse": "...with the breastplate of righteousness in place,...",
+            "background": "background",
+            "quiz": [
+                {
+                    "question": "Who received the Ten Commandments from God on Mount Sinai?",
+                    "correct_picture": "Moses.png",
+                    "additional_info": "Obeying the Ten Commandments makes our lives better. They were provided for our benefit!",
+                    "info_fontsize": 36,
+                    "characters": [
+                        {
+                            "name": "Moses",
+                            "picture": "Moses.png",
+                            "scale": 0.6,
+                            "xoffset": 5,
+                            "yoffset": -5,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Jesus",
+                            "picture": "Mini Jesus Colour.png",
+                            "scale": 0.6,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Elijah",
+                            "picture": "Elijah2.png",
+                            "scale": 0.65,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Abraham",
+                            "picture": "Abraham.png",
+                            "scale": 0.5,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        }
+                    ]
+                },
+                {
+                    "question": "Who said \"Do not think that I have come to abolish the Law or the Prophets; I have not come to abolish them but to fulfill them.\"?",
+                    "correct_picture": "Jesus Teaching Colour.png",
+                    "additional_info": "Jesus kept all the commandments perfectly and fulfilled all the Old Testament prophecies about the Messiah.",
+                    "info_fontsize": 36,
+                    "characters": [
+                        {
+                            "name": "Jesus",
+                            "picture": "Jesus Teaching Colour.png",
+                            "scale": 0.5,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Moses",
+                            "picture": "Moses.png",
+                            "scale": 0.6,
+                            "xoffset": 5,
+                            "yoffset": -5,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Paul",
+                            "picture": "Apostle Paul.png",
+                            "scale": 0.5,
+                            "xoffset": 10,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Nicodemus",
+                            "picture": "Teacher Colour.png",
+                            "scale": 0.5,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        }
+                    ]
+                },
+                {
+                    "question": "In Jesus' parable about righteousness, who is NOT justified before God?",
+                    "correct_picture": "Pharisee Colour.png",
+                    "additional_info": "Doing good things won't save us. Turning to Jesus for help saves us.",
+                    "info_fontsize": 32,
+                    "characters": [
+                        {
+                            "name": "The Pharisee",
+                            "picture": "Pharisee Colour.png",
+                            "scale": 0.55,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "The Rich Man",
+                            "picture": "Rich Man Colour.png",
+                            "scale": 0.45,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "The Good Samaritan",
+                            "picture": "Good Samaritan Colour.png",
+                            "scale": 0.55,
+                            "xoffset": -15,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 24
+                        },
+                        {
+                            "name": "Lazarus",
+                            "picture": "Lazarus Colour.png",
+                            "scale": 0.4,
+                            "xoffset": -5,
+                            "yoffset": 0,
+                            "labelxoffset": -5,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        }
+                    ]
+                },
+                {
+                    "question": "Who wrote \"There is none righteous, no, not one; there is no one who understands; there is no one who seeks after God.\"?",
+                    "correct_picture": "David King.png",
+                    "additional_info": "If you break one commandment, you have broken them all. Only Jesus is truly righteous.",
+                    "info_fontsize": 36,
+                    "characters": [
+                        {
+                            "name": "David",
+                            "picture": "David King.png",
+                            "scale": 0.45,
+                            "xoffset": 0,
+                            "yoffset": -5,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Moses",
+                            "picture": "Moses.png",
+                            "scale": 0.6,
+                            "xoffset": 5,
+                            "yoffset": -5,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Paul",
+                            "picture": "Apostle Paul.png",
+                            "scale": 0.5,
+                            "xoffset": 10,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Elisha",
+                            "picture": "Elisha the Prophet Colour.png",
+                            "scale": 0.6,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        }
+                    ]
+                },
+                {
+                    "question": "Who said \"...seek first His kingdom and His righteousness, and all these things will be added to you\"?",
+                    "correct_picture": "Jesus Pointing.png",
+                    "additional_info": "When we make God the center of our life, everything moves into its proper place.",
+                    "info_fontsize": 36,
+                    "characters": [
+                        {
+                            "name": "Jesus",
+                            "picture": "Jesus Pointing.png",
+                            "scale": 0.45,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Samuel",
+                            "picture": "Samuel Colour.png",
+                            "scale": 0.55,
+                            "xoffset": 10,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "David",
+                            "picture": "David King.png",
+                            "scale": 0.45,
+                            "xoffset": 0,
+                            "yoffset": -5,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Nathan",
+                            "picture": "Nathan Colour.png",
+                            "scale": 0.6,
+                            "xoffset": 5,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        }
+                    ]
+                },
+                {
+                    "question": "Which prophet rebuked David for his evil actions?",
+                    "correct_picture": "Nathan Colour.png",
+                    "additional_info": "God still expects us to live righteous lives that reflect who we say we are.",
+                    "info_fontsize": 36,
+                    "characters": [
+                        {
+                            "name": "Nathan",
+                            "picture": "Nathan Colour.png",
+                            "scale": 0.6,
+                            "xoffset": 5,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Elijah",
+                            "picture": "Elijah2.png",
+                            "scale": 0.65,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Deborah",
+                            "picture": "Deborah.png",
+                            "scale": 0.6,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Ruth",
+                            "picture": "Ruth Colour.png",
+                            "scale": 0.55,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        }
+                    ]
+                },
+                {
+                    "question": "Who said \"I have not come to call the righteous, but sinners to repentance\"?",
+                    "correct_picture": "Jesus Washing Colour.png",
+                    "additional_info": "Only those that admit their sin change their mind and accept Jesus are in \"right standing\" with God.",
+                    "info_fontsize": 36,
+                    "characters": [
+                        {
+                            "name": "Jesus",
+                            "picture": "Jesus Washing Colour.png",
+                            "scale": 0.6,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Moses",
+                            "picture": "Moses.png",
+                            "scale": 0.6,
+                            "xoffset": 5,
+                            "yoffset": -5,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Abraham",
+                            "picture": "Abraham.png",
+                            "scale": 0.5,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "John the Baptist",
+                            "picture": "John the Baptist.png",
+                            "scale": 0.55,
+                            "xoffset": 10,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 30
+                        }
+                    ]
+                },
+                {
+                    "question": "Who said to Jesus \"You are the Messiah, the Son of the living God.\"?",
+                    "correct_picture": "Peter Colour.png",
+                    "additional_info": "Jesus has called us into righteousness.",
+                    "info_fontsize": 36,
+                    "characters": [
+                        {
+                            "name": "Peter",
+                            "picture": "Peter Colour.png",
+                            "scale": 0.6,
+                            "xoffset": 0,
+                            "yoffset": -5,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Paul",
+                            "picture": "Apostle Paul.png",
+                            "scale": 0.5,
+                            "xoffset": 10,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Mary Magdalene",
+                            "picture": "Mary Magdalene Colour.png",
+                            "scale": 0.4,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 28
+                        },
+                        {
+                            "name": "Martha",
+                            "picture": "Martha Colour.png",
+                            "scale": 0.5,
+                            "xoffset": -5,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        }
+                    ]
+                },
+                {
+                    "question": "Who is Isaiah describing: \"...my righteous servant will make it possible for many to be counted righteous...\"?",
+                    "correct_picture": "Jesus on Cross Colour.png",
+                    "additional_info": "In 1947 a complete Isaiah scroll was discovered dating to 100 years before Jesus. The contents prove the prophecies predate Jesus' birth. Once again confirming the authenticity of the Bible.",
+                    "info_fontsize": 26,
+                    "characters": [
+                        {
+                            "name": "Jesus",
+                            "picture": "Jesus on Cross Colour.png",
+                            "scale": 0.45,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "David",
+                            "picture": "David Warrior Colour.png",
+                            "scale": 0.5,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Joseph",
+                            "picture": "Joseph.png",
+                            "scale": 0.5,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Daniel",
+                            "picture": "Daniel.png",
+                            "scale": 0.45,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        }
+                    ]
+                },
+                {
+                    "question": "Who wrote \"This righteousness is given through faith in Jesus Christ to all who believe.\"?",
+                    "correct_picture": "Apostle Paul.png",
+                    "additional_info": "God is good! Jesus is the way!",
+                    "info_fontsize": 36,
+                    "characters": [
+                        {
+                            "name": "Peter",
+                            "picture": "Peter Colour.png",
+                            "scale": 0.6,
+                            "xoffset": 0,
+                            "yoffset": -5,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Paul",
+                            "picture": "Apostle Paul.png",
+                            "scale": 0.5,
+                            "xoffset": 10,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Martha",
+                            "picture": "Martha Colour.png",
+                            "scale": 0.5,
+                            "xoffset": -5,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "John the Baptist",
+                            "picture": "John the Baptist.png",
+                            "scale": 0.55,
+                            "xoffset": 10,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 30
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "number": 4,
+            "name": "Level 04",
+            "rank": "Sergeant Angel",
+            "rank_texture": "girl_breastplate",
+            "level_message": "Awesome!",
+            "character_spritesheet": "level1",
+            "award_texture": "belt",
+            "award_desc": "Belt of Truth",
+            "award_verse": "Stand firm then, with the belt of truth buckled around your waist,...",
+            "background": "background",
+            "quiz": [
+                {
+                    "question": "Who said \"I am the way and the truth and the life.\"?",
+                    "correct_picture": "Jesus Lamb of God.png",
+                    "additional_info": "The truth is that Jesus is the only way to heaven.",
+                    "info_fontsize": 36,
+                    "characters": [
+                        {
+                            "name": "Jesus",
+                            "picture": "Jesus Lamb of God.png",
+                            "scale": 0.38,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Moses",
+                            "picture": "Moses.png",
+                            "scale": 0.5,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Abraham",
+                            "picture": "Abraham.png",
+                            "scale": 0.55,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Mary",
+                            "picture": "Mary Mother Colour.png",
+                            "scale": 0.45,
+                            "xoffset": 0,
+                            "yoffset": -10,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        }
+                    ]
+                },
+                {
+                    "question": "Who wrote in Proverbs: \"The LORD detests lying lips, but he delights in those who tell the truth.\"?",
+                    "correct_picture": "Solomon Colour.png",
+                    "additional_info": "God wants His words on our lips. His Word is Truth!",
+                    "info_fontsize": 36,
+                    "characters": [
+                        {
+                            "name": "Joshua",
+                            "picture": "Joshua.png",
+                            "scale": 0.5,
+                            "xoffset": 0,
+                            "yoffset": -10,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Solomon",
+                            "picture": "Solomon Colour.png",
+                            "scale": 0.55,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Jonathan",
+                            "picture": "Jonathan Colour.png",
+                            "scale": 0.5,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "David",
+                            "picture": "David.png",
+                            "scale": 0.5,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        }
+                    ]
+                },
+                {
+                    "question": "To whom did the Widow say \"...you are a man of God and that the word of the LORD from your mouth is the truth.\"",
+                    "correct_picture": "Elijah2.png",
+                    "additional_info": "God is the Word! God isn't just truthful, God is Truth!",
+                    "info_fontsize": 36,
+                    "characters": [
+                        {
+                            "name": "Elijah",
+                            "picture": "Elijah2.png",
+                            "scale": 0.55,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Elisha",
+                            "picture": "Elisha the Prophet Colour.png",
+                            "scale": 0.45,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Nathan",
+                            "picture": "Nathan Colour.png",
+                            "scale": 0.55,
+                            "xoffset": -15,
+                            "yoffset": -5,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Samuel",
+                            "picture": "Samuel Colour.png",
+                            "scale": 0.4,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        }
+                    ]
+                },
+                {
+                    "question": "Who wrote \"The tongue has the power of life and death, and those who love it will eat its fruit.\"",
+                    "correct_picture": "Solomon Colour.png",
+                    "additional_info": "Words have power! We choose life when we agree with what God says.",
+                    "info_fontsize": 36,
+                    "characters": [
+                        {
+                            "name": "Solomon",
+                            "picture": "Solomon Colour.png",
+                            "scale": 0.45,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Paul",
+                            "picture": "Apostle Paul.png",
+                            "scale": 0.5,
+                            "xoffset": 10,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Peter",
+                            "picture": "Peter Colour.png",
+                            "scale": 0.6,
+                            "xoffset": 0,
+                            "yoffset": -5,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "John the Baptist",
+                            "picture": "John the Baptist.png",
+                            "scale": 0.55,
+                            "xoffset": 10,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 30
+                        }
+                    ]
+                },
+                {
+                    "question": "Who said \"Then you will know the truth, and the truth will set you free.\"?",
+                    "correct_picture": "Jesus Teaching Colour.png",
+                    "additional_info": "Don't just think about what Jesus says. Follow Jesus and get set free!",
+                    "info_fontsize": 36,
+                    "characters": [
+                        {
+                            "name": "Jesus",
+                            "picture": "Jesus Teaching Colour.png",
+                            "scale": 0.45,
+                            "xoffset": 0,
+                            "yoffset": -5,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Solomon",
+                            "picture": "Solomon Colour.png",
+                            "scale": 0.6,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Paul",
+                            "picture": "Apostle Paul.png",
+                            "scale": 0.45,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "David",
+                            "picture": "David King.png",
+                            "scale": 0.4,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        }
+                    ]
+                },
+                {
+                    "question": "To whom did Jesus say \"I was born and came into the world to testify to the truth. Everyone on the side of truth listens to me.\"?",
+                    "correct_picture": "Pilate Colour.png",
+                    "additional_info": "We testify that Jesus is Lord! That He is the Truth",
+                    "info_fontsize": 36,
+                    "characters": [
+                        {
+                            "name": "Pontius Pilate",
+                            "picture": "Pilate Colour.png",
+                            "scale": 0.6,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Joseph",
+                            "picture": "Joseph Mary Colour.png",
+                            "scale": 0.5,
+                            "xoffset": 10,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Mary Magdalene",
+                            "picture": "Mary Magdalene Colour.png",
+                            "scale": 0.4,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 28
+                        },
+                        {
+                            "name": "Judas",
+                            "picture": "Judas Colour.png",
+                            "scale": 0.45,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        }
+                    ]
+                },
+                {
+                    "question": "Who said \nMy sheep listen to my voice; I know them, and they follow me.\"?",
+                    "correct_picture": "Jesus Lamb of God.png",
+                    "additional_info": "God speaks! If we listen, we will know His will for our lives.",
+                    "info_fontsize": 36,
+                    "characters": [
+                        {
+                            "name": "Jesus",
+                            "picture": "Jesus Lamb of God.png",
+                            "scale": 0.38,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Moses",
+                            "picture": "Moses.png",
+                            "scale": 0.5,
+                            "xoffset": 10,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Elisha",
+                            "picture": "Elisha the Prophet Colour.png",
+                            "scale": 0.4,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "David",
+                            "picture": "David King.png",
+                            "scale": 0.45,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        }
+                    ]
+                },
+                {
+                    "question": "Who said \"Speak, for your servant is listening\"?",
+                    "correct_picture": "Samuel Colour.png",
+                    "additional_info": "To hear God, we need to get in His presence and listen.",
+                    "info_fontsize": 36,
+                    "characters": [
+                        {
+                            "name": "Samuel",
+                            "picture": "Samuel Colour.png",
+                            "scale": 0.6,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Moses",
+                            "picture": "Moses.png",
+                            "scale": 0.5,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Elijah",
+                            "picture": "Elijah2.png",
+                            "scale": 0.4,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Nathan",
+                            "picture": "Nathan Colour.png",
+                            "scale": 0.45,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        }
+                    ]
+                },
+                {
+                    "question": "Who did God speak to in a \"small still voice\"?",
+                    "correct_picture": "Elijah2.png",
+                    "additional_info": "God favors small things! A word from God changes everything!",
+                    "info_fontsize": 36,
+                    "characters": [
+                        {
+                            "name": "Elijah",
+                            "picture": "Elijah2.png",
+                            "scale": 0.6,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Peter",
+                            "picture": "Peter Colour.png",
+                            "scale": 0.5,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "David",
+                            "picture": "David.png",
+                            "scale": 0.4,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Esther",
+                            "picture": "Esther Colour.png",
+                            "scale": 0.45,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        }
+                    ]
+                },
+                {
+                    "question": "Who prayed \"Sanctify them by the truth; your word is truth.\"?",
+                    "correct_picture": "Jesus Praying.png",
+                    "additional_info": "Thank you, Jesus!",
+                    "info_fontsize": 36,
+                    "characters": [
+                        {
+                            "name": "Jesus",
+                            "picture": "Jesus Praying.png",
+                            "scale": 0.6,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Moses",
+                            "picture": "Moses.png",
+                            "scale": 0.5,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "David",
+                            "picture": "David King.png",
+                            "scale": 0.4,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Solomon",
+                            "picture": "Solomon Colour.png",
+                            "scale": 0.45,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "number": 5,
+            "name": "Level 05",
+            "rank": "Lieutenant Angel",
+            "rank_texture": "girl_belt",
+            "level_message": "Nice Work!",
+            "character_spritesheet": "level1",
+            "award_texture": "shield",
+            "award_desc": "Shield of Faith",
+            "award_verse": "... take up the shield of faith, with which you can extinguish all the flaming arrows of the evil one.",
+            "background": "background",
+            "quiz": [
+                {
+                    "question": "Who was credited with righteousness because he believed the Lord?",
+                    "correct_picture": "Abraham.png",
+                    "additional_info": "It is grace through faith in Jesus that saves us!",
+                    "info_fontsize": 36,
+                    "characters": [
+                        {
+                            "name": "Abraham",
+                            "picture": "Abraham.png",
+                            "scale": 0.38,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Joseph",
+                            "picture": "Joseph.png",
+                            "scale": 0.5,
+                            "xoffset": -5,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Isaac",
+                            "picture": "Isaac.png",
+                            "scale": 0.55,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Jacob",
+                            "picture": "Jacob.png",
+                            "scale": 0.4,
+                            "xoffset": 0,
+                            "yoffset": 10,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        }
+                    ]
+                },
+                {
+                    "question": "Who was Abraham's wife and said \"God has made laughter for me; everyone who hears will laugh over me.\"?",
+                    "correct_picture": "Sarah.png",
+                    "additional_info": "God is always faithful! He keeps His promises.",
+                    "info_fontsize": 36,
+                    "characters": [
+                        {
+                            "name": "Sarah",
+                            "picture": "Sarah.png",
+                            "scale": 0.5,
+                            "xoffset": 0,
+                            "yoffset": -10,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Ruth",
+                            "picture": "Ruth Colour.png",
+                            "scale": 0.55,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Esther",
+                            "picture": "Esther Colour.png",
+                            "scale": 0.5,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Deborah",
+                            "picture": "Deborah.png",
+                            "scale": 0.5,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        }
+                    ]
+                },
+                {
+                    "question": "Who did God tell to build an ark?",
+                    "correct_picture": "Noah Colour.png",
+                    "additional_info": "Sometimes it takes longer than we would like, but what God says He will do, He does!",
+                    "info_fontsize": 36,
+                    "characters": [
+                        {
+                            "name": "Noah",
+                            "picture": "Noah Colour.png",
+                            "scale": 0.55,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Abraham",
+                            "picture": "Abraham.png",
+                            "scale": 0.45,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Moses",
+                            "picture": "Moses.png",
+                            "scale": 0.55,
+                            "xoffset": -15,
+                            "yoffset": -5,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Jacob",
+                            "picture": "Jacob.png",
+                            "scale": 0.4,
+                            "xoffset": -5,
+                            "yoffset": 0,
+                            "labelxoffset": -5,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        }
+                    ]
+                },
+                {
+                    "question": "Who said \"As were the days of Noah, so will be the coming of the Son of Man.\"?",
+                    "correct_picture": "Jesus on White Horse Colour.png",
+                    "additional_info": "One day Jesus will come back to set things right! Make sure you get in this boat!",
+                    "info_fontsize": 36,
+                    "characters": [
+                        {
+                            "name": "Jesus",
+                            "picture": "Jesus on White Horse Colour.png",
+                            "scale": 0.45,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Paul",
+                            "picture": "Apostle Paul.png",
+                            "scale": 0.5,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Daniel",
+                            "picture": "Daniel.png",
+                            "scale": 0.6,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Moses",
+                            "picture": "Moses.png",
+                            "scale": 0.55,
+                            "xoffset": 10,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        }
+                    ]
+                },
+                {
+                    "question": "Who said \"There is no one holy like the LORD; there is no one besides you; there is no Rock like our God.\"?",
+                    "correct_picture": "Hannah Colour.png",
+                    "additional_info": "The Lord cares for us. He hears and answers our prayers!",
+                    "info_fontsize": 36,
+                    "characters": [
+                        {
+                            "name": "Hannah",
+                            "picture": "Hannah Colour.png",
+                            "scale": 0.45,
+                            "xoffset": 0,
+                            "yoffset": -5,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Sarah",
+                            "picture": "Sarah.png",
+                            "scale": 0.6,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Esther",
+                            "picture": "Esther Colour.png",
+                            "scale": 0.45,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Mary",
+                            "picture": "Mary Mother Colour.png",
+                            "scale": 0.4,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        }
+                    ]
+                },
+                {
+                    "question": "Who said \"...if you have faith as small as a mustard seed, you can say to this mountain ‘Move from here to there,’ and it will move.\"?",
+                    "correct_picture": "Jesus Pointing.png",
+                    "additional_info": "All things are possible with God!",
+                    "info_fontsize": 36,
+                    "characters": [
+                        {
+                            "name": "Gideon",
+                            "picture": "Gideon.png",
+                            "scale": 0.6,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Jesus",
+                            "picture": "Jesus Pointing.png",
+                            "scale": 0.5,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Moses",
+                            "picture": "Moses.png",
+                            "scale": 0.4,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Abraham",
+                            "picture": "Abraham.png",
+                            "scale": 0.45,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        }
+                    ]
+                },
+                {
+                    "question": "Who sang \"The Lord is my rock, my fortress and my deliverer...in whom I take refuge, my shield and the horn my salvation.\"?",
+                    "correct_picture": "David Warrior Colour.png",
+                    "additional_info": "Our God is our great defender!",
+                    "info_fontsize": 36,
+                    "characters": [
+                        {
+                            "name": "David",
+                            "picture": "David Warrior Colour.png",
+                            "scale": 0.6,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Saul",
+                            "picture": "Saul Colour.png",
+                            "scale": 0.5,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Ruth",
+                            "picture": "Ruth Colour.png",
+                            "scale": 0.4,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Jacob",
+                            "picture": "Jacob.png",
+                            "scale": 0.45,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        }
+                    ]
+                },
+                {
+                    "question": "Who said \"Everyone then who hears these words of mine and does them will be like a wise man who built his house on the rock.\"?",
+                    "correct_picture": "Jesus Teaching Colour.png",
+                    "additional_info": "When Jesus is the foundation of our life, nothing can overcome us. We overcome because of His sacrifice and our testimony!",
+                    "info_fontsize": 32,
+                    "characters": [
+                        {
+                            "name": "Jesus",
+                            "picture": "Jesus Teaching Colour.png",
+                            "scale": 0.6,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Paul",
+                            "picture": "Apostle Paul.png",
+                            "scale": 0.5,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Nathan",
+                            "picture": "Nathan Colour.png",
+                            "scale": 0.4,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Samuel",
+                            "picture": "Samuel Colour.png",
+                            "scale": 0.45,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        }
+                    ]
+                },
+                {
+                    "question": "Who was told to \"Strike the rock, and water will come out of it for the people to drink.\"?",
+                    "correct_picture": "Moses.png",
+                    "additional_info": "Jesus is our rock!",
+                    "info_fontsize": 36,
+                    "characters": [
+                        {
+                            "name": "Moses",
+                            "picture": "Moses.png",
+                            "scale": 0.6,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Elisha",
+                            "picture": "Elisha the Prophet Colour.png",
+                            "scale": 0.5,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "David",
+                            "picture": "David King.png",
+                            "scale": 0.4,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Elijah",
+                            "picture": "Elijah2.png",
+                            "scale": 0.45,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        }
+                    ]
+                },
+                {
+                    "question": "Who wrote \"...for they drank from the spiritual rock that accompanied them and that rock was Christ.\"?",
+                    "correct_picture": "Apostle Paul.png",
+                    "additional_info": "Faith in Jesus leads to a life of purpose and fulfillment. Our God is always faithful!",
+                    "info_fontsize": 36,
+                    "characters": [
+                        {
+                            "name": "Moses",
+                            "picture": "Moses.png",
+                            "scale": 0.6,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Paul",
+                            "picture": "Apostle Paul.png",
+                            "scale": 0.5,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "David",
+                            "picture": "David Warrior Colour.png",
+                            "scale": 0.4,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Samuel",
+                            "picture": "Samuel Colour.png",
+                            "scale": 0.45,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "number": 6,
+            "name": "Level 06",
+            "rank": "Colonel Angel",
+            "rank_texture": "girl_shield",
+            "level_message": "Woo hoo!",
+            "character_spritesheet": "level1",
+            "award_texture": "sword",
+            "award_desc": "Sword of the\n Spirit",
+            "award_verse": "...and the sword of the Spirit, which is the word of God.",
+            "background": "background",
+            "quiz": [
+                {
+                    "question": "Who said \"Heaven and earth will pass away, but my words will never pass away.\"?",
+                    "correct_picture": "Jesus on White Horse Colour.png",
+                    "additional_info": "The bible is always true. It is God's Word.",
+                    "info_fontsize": 36,
+                    "characters": [
+                        {
+                            "name": "Jesus",
+                            "picture": "Jesus on White Horse Colour.png",
+                            "scale": 0.38,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Abraham",
+                            "picture": "Abraham.png",
+                            "scale": 0.5,
+                            "xoffset": -5,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Moses",
+                            "picture": "Moses.png",
+                            "scale": 0.55,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Elijah",
+                            "picture": "Elijah2.png",
+                            "scale": 0.4,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        }
+                    ]
+                },
+                {
+                    "question": "Who wrote \"...but the word of the Lord endures forever. And this is the word that was preached to you.\"?",
+                    "correct_picture": "Peter Colour.png",
+                    "additional_info": "God's word never fails! God never fails!",
+                    "info_fontsize": 36,
+                    "characters": [
+                        {
+                            "name": "Peter",
+                            "picture": "Peter Colour.png",
+                            "scale": 0.5,
+                            "xoffset": 0,
+                            "yoffset": -10,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Paul",
+                            "picture": "Apostle Paul.png",
+                            "scale": 0.55,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Samuel",
+                            "picture": "Samuel Colour.png",
+                            "scale": 0.5,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Elisha",
+                            "picture": "Elisha the Prophet Colour.png",
+                            "scale": 0.5,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        }
+                    ]
+                },
+                {
+                    "question": "Who said \"For the sake of your word and according to your will, you have done this great thing and made it known to your servant.\"?",
+                    "correct_picture": "David King.png",
+                    "additional_info": "There is no one like our God!",
+                    "info_fontsize": 36,
+                    "characters": [
+                        {
+                            "name": "David",
+                            "picture": "David King.png",
+                            "scale": 0.55,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Esther",
+                            "picture": "Esther Colour.png",
+                            "scale": 0.45,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Elisha",
+                            "picture": "Elisha the Prophet Colour.png",
+                            "scale": 0.55,
+                            "xoffset": -15,
+                            "yoffset": -5,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Samuel",
+                            "picture": "Samuel Colour.png",
+                            "scale": 0.4,
+                            "xoffset": -5,
+                            "yoffset": 0,
+                            "labelxoffset": -5,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        }
+                    ]
+                },
+                {
+                    "question": "Who, when the Lord appeared to him with a sword in His hand, removed his sandles and worshipped Him?",
+                    "correct_picture": "Joshua.png",
+                    "additional_info": "God did not come to take sides. He came to take over. We need to get on His side!",
+                    "info_fontsize": 32,
+                    "characters": [
+                        {
+                            "name": "Joshua",
+                            "picture": "Joshua.png",
+                            "scale": 0.45,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Jonathan",
+                            "picture": "Jonathan Colour.png",
+                            "scale": 0.5,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Gideon",
+                            "picture": "Gideon.png",
+                            "scale": 0.6,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Jacob",
+                            "picture": "Jacob.png",
+                            "scale": 0.55,
+                            "xoffset": 10,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        }
+                    ]
+                },
+                {
+                    "question": "Who is John describing: \"In the beginning was the Word, and the Word was with God, and the Word was God.\"?",
+                    "correct_picture": "Jesus Welcome.png",
+                    "additional_info": "Jesus was there in the beginning!",
+                    "info_fontsize": 32,
+                    "characters": [
+                        {
+                            "name": "Jesus",
+                            "picture": "Jesus Welcome.png",
+                            "scale": 0.45,
+                            "xoffset": 0,
+                            "yoffset": -5,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Solomon",
+                            "picture": "Solomon Colour.png",
+                            "scale": 0.6,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Mary",
+                            "picture": "Mary Mother Colour.png",
+                            "scale": 0.45,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Moses",
+                            "picture": "Moses.png",
+                            "scale": 0.4,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        }
+                    ]
+                },
+                {
+                    "question": "Who defeated Satan by quoting God's word?",
+                    "correct_picture": "Jesus Scripture Reading.png",
+                    "additional_info": "We are given authority over the enemy in Jesus' name!",
+                    "info_fontsize": 36,
+                    "characters": [
+                        {
+                            "name": "Jesus",
+                            "picture": "Jesus Scripture Reading.png",
+                            "scale": 0.6,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Paul",
+                            "picture": "Apostle Paul.png",
+                            "scale": 0.5,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Elisha",
+                            "picture": "Elisha the Prophet Colour.png",
+                            "scale": 0.4,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Nathan",
+                            "picture": "Nathan Colour.png",
+                            "scale": 0.45,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        }
+                    ]
+                },
+                {
+                    "question": "Who said to Goliath \"I come against you in the name of the Living God\" before he killed him?",
+                    "correct_picture": "David.png",
+                    "additional_info": "Declare the word of God and watch your enemies fall!",
+                    "info_fontsize": 36,
+                    "characters": [
+                        {
+                            "name": "David",
+                            "picture": "David.png",
+                            "scale": 0.6,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Jacob",
+                            "picture": "Jacob.png",
+                            "scale": 0.5,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Abraham",
+                            "picture": "Abraham.png",
+                            "scale": 0.4,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Jonathan",
+                            "picture": "Jonathan Colour.png",
+                            "scale": 0.45,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        }
+                    ]
+                },
+                {
+                    "question": "Who did God save when He shut the mouths of lions?",
+                    "correct_picture": "Daniel.png",
+                    "additional_info": "God is mighty to save! He is always with us.",
+                    "info_fontsize": 36,
+                    "characters": [
+                        {
+                            "name": "Daniel",
+                            "picture": "Daniel.png",
+                            "scale": 0.6,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Samuel",
+                            "picture": "Samuel Colour.png",
+                            "scale": 0.5,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Mary Magdalene",
+                            "picture": "Mary Magdalene Colour.png",
+                            "scale": 0.4,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 28
+                        },
+                        {
+                            "name": "Esther",
+                            "picture": "Esther Colour.png",
+                            "scale": 0.45,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        }
+                    ]
+                },
+                {
+                    "question": "Who said \"Fear not! Stand firm! And see the salvation of the Lord, which He will show you today.\"?",
+                    "correct_picture": "Moses.png",
+                    "additional_info": "Jesus said \"But be of good cheer. I have overcome the world.\"",
+                    "info_fontsize": 36,
+                    "characters": [
+                        {
+                            "name": "Moses",
+                            "picture": "Moses.png",
+                            "scale": 0.6,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "David",
+                            "picture": "David King.png",
+                            "scale": 0.5,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Solomon",
+                            "picture": "Solomon Colour.png",
+                            "scale": 0.4,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "John the Baptist",
+                            "picture": "John the Baptist.png",
+                            "scale": 0.45,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 30
+                        }
+                    ]
+                },
+                {
+                    "question": "Who is John describing: \"He is dressed in a robe dipped in blood, and his name is the Word of God.\"?",
+                    "correct_picture": "Jesus on White Horse Colour.png",
+                    "additional_info": "When Jesus returns, it will be awesome!",
+                    "info_fontsize": 36,
+                    "characters": [
+                        {
+                            "name": "Jesus",
+                            "picture": "Jesus on White Horse Colour.png",
+                            "scale": 0.6,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Moses",
+                            "picture": "Moses.png",
+                            "scale": 0.5,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Ahab",
+                            "picture": "Ahab Colour.png",
+                            "scale": 0.4,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "David",
+                            "picture": "David King.png",
+                            "scale": 0.45,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "number": 7,
+            "name": "Level 07",
+            "rank": "General Angel",
+            "rank_texture": "girl_sword",
+            "level_message": "Excellent!",
+            "character_spritesheet": "level1",
+            "award_texture": "halo",
+            "award_desc": "Halo",
+            "award_verse": "All around him was a glowing halo...",
+            "background": "background",
+            "quiz": [
+                {
+                    "question": "Who prayed from inside a fish to the Lord his God?",
+                    "correct_picture": "Jonah Colour.png",
+                    "additional_info": "No matter where you are or what is going on, God answers prayers!",
+                    "info_fontsize": 36,
+                    "characters": [
+                        {
+                            "name": "Jonah",
+                            "picture": "Jonah Colour.png",
+                            "scale": 0.38,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Gideon",
+                            "picture": "Gideon.png",
+                            "scale": 0.5,
+                            "xoffset": -5,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Peter",
+                            "picture": "Peter Colour.png",
+                            "scale": 0.55,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Hannah",
+                            "picture": "Hannah Colour.png",
+                            "scale": 0.4,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        }
+                    ]
+                },
+                {
+                    "question": "Who prayed, \"O Lord, now open their eyes and let them see.\"?",
+                    "correct_picture": "Elisha the Prophet Colour.png",
+                    "additional_info": "If we could see how things really are, we would see God's angels all around us.",
+                    "info_fontsize": 36,
+                    "characters": [
+                        {
+                            "name": "Elisha",
+                            "picture": "Elisha the Prophet Colour.png",
+                            "scale": 0.5,
+                            "xoffset": 0,
+                            "yoffset": -10,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Elijah",
+                            "picture": "Elijah2.png",
+                            "scale": 0.55,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Jonathan",
+                            "picture": "Jonathan Colour.png",
+                            "scale": 0.5,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "John the Baptist",
+                            "picture": "John the Baptist.png",
+                            "scale": 0.5,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 30
+                        }
+                    ]
+                },
+                {
+                    "question": "Who prayed \"O my Lord, you only are our king; help me, who am alone and have no helper but you,...\"?",
+                    "correct_picture": "Esther Colour.png",
+                    "additional_info": "God is near to those with a broken heart.",
+                    "info_fontsize": 36,
+                    "characters": [
+                        {
+                            "name": "Mary",
+                            "picture": "Mary Mother Colour.png",
+                            "scale": 0.55,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Esther",
+                            "picture": "Esther Colour.png",
+                            "scale": 0.45,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Sarah",
+                            "picture": "Sarah.png",
+                            "scale": 0.55,
+                            "xoffset": -15,
+                            "yoffset": -5,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Mary Magdalene",
+                            "picture": "Mary Magdalene Colour.png",
+                            "scale": 0.4,
+                            "xoffset": -5,
+                            "yoffset": 0,
+                            "labelxoffset": -5,
+                            "labelyoffset": 0,
+                            "fontSize": 28
+                        }
+                    ]
+                },
+                {
+                    "question": "Who said \"I will never leave you nor forsake you\"?",
+                    "correct_picture": "Jesus Lamb of God.png",
+                    "additional_info": "God will never forsake you. It is a promise of God!",
+                    "info_fontsize": 36,
+                    "characters": [
+                        {
+                            "name": "Jesus",
+                            "picture": "Jesus Lamb of God.png",
+                            "scale": 0.45,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Elisha",
+                            "picture": "Elisha the Prophet Colour.png",
+                            "scale": 0.5,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Samuel",
+                            "picture": "Samuel Colour.png",
+                            "scale": 0.6,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "David",
+                            "picture": "David Warrior Colour.png",
+                            "scale": 0.55,
+                            "xoffset": 10,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        }
+                    ]
+                },
+                {
+                    "question": "Who prayed to God three times a day every day?",
+                    "correct_picture": "Daniel.png",
+                    "additional_info": "Prayer changes things!",
+                    "info_fontsize": 36,
+                    "characters": [
+                        {
+                            "name": "Daniel",
+                            "picture": "Daniel.png",
+                            "scale": 0.45,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Solomon",
+                            "picture": "Solomon Colour.png",
+                            "scale": 0.6,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Saul",
+                            "picture": "Saul Colour.png",
+                            "scale": 0.45,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "David",
+                            "picture": "David.png",
+                            "scale": 0.4,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        }
+                    ]
+                },
+                {
+                    "question": "Who prayed \"Your name is in this temple. And we will cry out to You in our distress, and You will hear and deliver.\"?",
+                    "correct_picture": "King Jehoshaphat Colour.png",
+                    "additional_info": "The battle belongs to the Lord!",
+                    "info_fontsize": 36,
+                    "characters": [
+                        {
+                            "name": "Jehoshaphat",
+                            "picture": "King Jehoshaphat Colour.png",
+                            "scale": 0.6,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "David",
+                            "picture": "David King.png",
+                            "scale": 0.5,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Saul",
+                            "picture": "Saul Colour.png",
+                            "scale": 0.4,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Ahab",
+                            "picture": "Ahab Colour.png",
+                            "scale": 0.45,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        }
+                    ]
+                },
+                {
+                    "question": "Who prayed \"Our Father in heaven, hallowed be your name, your kingdom come, your will be done...\"?",
+                    "correct_picture": "Jesus Praying.png",
+                    "additional_info": "Our God is a good Father!",
+                    "info_fontsize": 36,
+                    "characters": [
+                        {
+                            "name": "Jesus",
+                            "picture": "Jesus Praying.png",
+                            "scale": 0.6,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Paul",
+                            "picture": "Apostle Paul.png",
+                            "scale": 0.5,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Mary",
+                            "picture": "Mary Mother Colour.png",
+                            "scale": 0.4,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Martha",
+                            "picture": "Martha Colour.png",
+                            "scale": 0.45,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        }
+                    ]
+                },
+                {
+                    "question": "Who prayed \"...answer me, so these people will know that you, Lord, are God, and that you are turning their hearts back again.\"?",
+                    "correct_picture": "Elijah2.png",
+                    "additional_info": "There really is a God! There really are answers! Jesus really does change hearts!",
+                    "info_fontsize": 36,
+                    "characters": [
+                        {
+                            "name": "Elijah",
+                            "picture": "Elijah2.png",
+                            "scale": 0.6,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Samuel",
+                            "picture": "Samuel Colour.png",
+                            "scale": 0.5,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Esther",
+                            "picture": "Esther Colour.png",
+                            "scale": 0.4,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Nathan",
+                            "picture": "Nathan Colour.png",
+                            "scale": 0.45,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        }
+                    ]
+                },
+                {
+                    "question": "Who prayed \"May the Lord our God be with us...may he never leave us nor forsake us. May he turn our hearts to him...\"?",
+                    "correct_picture": "Solomon Colour.png",
+                    "additional_info": "What a good prayer!",
+                    "info_fontsize": 36,
+                    "characters": [
+                        {
+                            "name": "Solomon",
+                            "picture": "Solomon Colour.png",
+                            "scale": 0.6,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "David",
+                            "picture": "David King.png",
+                            "scale": 0.5,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Gideon",
+                            "picture": "Gideon.png",
+                            "scale": 0.4,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Peter",
+                            "picture": "Peter Colour.png",
+                            "scale": 0.45,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        }
+                    ]
+                },
+                {
+                    "question": "Who said \"I am the way and the truth and the life. No one comes to the Father except through me.\"?",
+                    "correct_picture": "Jesus on Cross Colour.png",
+                    "additional_info": "Jesus came to restore our relationship with the Father. The answer to all our prayers!",
+                    "info_fontsize": 36,
+                    "characters": [
+                        {
+                            "name": "Jesus",
+                            "picture": "Jesus on Cross Colour.png",
+                            "scale": 0.6,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Samuel",
+                            "picture": "Samuel Colour.png",
+                            "scale": 0.5,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Moses",
+                            "picture": "Moses.png",
+                            "scale": 0.4,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Jacob",
+                            "picture": "Jacob.png",
+                            "scale": 0.45,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "number": 8,
+            "name": "Level 08",
+            "rank": "Commander Angel",
+            "rank_texture": "girl_halo",
+            "level_message": "Fantastic!",
+            "character_spritesheet": "level1",
+            "award_texture": "wings",
+            "award_desc": "Wings",
+            "award_verse": "They will soar on wings like eagles...",
+            "background": "background",
+            "quiz": [
+                {
+                    "question": "Who, in a dream, saw a stairway going from earth to heaven with angels of God ascending and descending on it?",
+                    "correct_picture": "Jacob.png",
+                    "additional_info": "Jesus is the only way for us to go to heaven!",
+                    "info_fontsize": 36,
+                    "characters": [
+                        {
+                            "name": "Jacob",
+                            "picture": "Jacob.png",
+                            "scale": 0.38,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Isaac",
+                            "picture": "Isaac.png",
+                            "scale": 0.5,
+                            "xoffset": -5,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Abraham",
+                            "picture": "Abraham.png",
+                            "scale": 0.55,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Joseph",
+                            "picture": "Joseph.png",
+                            "scale": 0.4,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        }
+                    ]
+                },
+                {
+                    "question": "Who said \"...you will see heaven open, and the angels of God ascending and descending on the Son of Man.\"?",
+                    "correct_picture": "Jesus Ascending Colour.png",
+                    "additional_info": "Jesus is the \"Son of Man\", and He is our only ladder to heaven!",
+                    "info_fontsize": 36,
+                    "characters": [
+                        {
+                            "name": "Jesus",
+                            "picture": "Jesus Ascending Colour.png",
+                            "scale": 0.5,
+                            "xoffset": 0,
+                            "yoffset": -10,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Gideon",
+                            "picture": "Gideon.png",
+                            "scale": 0.55,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Jonathan",
+                            "picture": "Jonathan Colour.png",
+                            "scale": 0.5,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "David",
+                            "picture": "David.png",
+                            "scale": 0.5,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        }
+                    ]
+                },
+                {
+                    "question": "Who saw the \"Son of Man\" be presented an everlasting Kingdom in a night vision?",
+                    "correct_picture": "Daniel.png",
+                    "additional_info": "\"and behold, with the clouds of heaven there came one like a son of man,and he came to the Ancient of Days!\"",
+                    "info_fontsize": 34,
+                    "characters": [
+                        {
+                            "name": "Daniel",
+                            "picture": "Daniel.png",
+                            "scale": 0.55,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Ruth",
+                            "picture": "Ruth Colour.png",
+                            "scale": 0.45,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Sarah",
+                            "picture": "Sarah.png",
+                            "scale": 0.55,
+                            "xoffset": -15,
+                            "yoffset": -5,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Mary",
+                            "picture": "Mary Mother Colour.png",
+                            "scale": 0.4,
+                            "xoffset": -5,
+                            "yoffset": 0,
+                            "labelxoffset": -5,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        }
+                    ]
+                },
+                {
+                    "question": "When His people were being bitten by snakes, to whom did God say \"Make a snake and put it up on a pole; anyone who is bitten can look at it and live.\"?",
+                    "correct_picture": "Moses.png",
+                    "additional_info": "Everyone who believed and looked at the snake became well!",
+                    "info_fontsize": 36,
+                    "characters": [
+                        {
+                            "name": "Moses",
+                            "picture": "Moses.png",
+                            "scale": 0.45,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Abraham",
+                            "picture": "Abraham.png",
+                            "scale": 0.5,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Jacob",
+                            "picture": "Jacob.png",
+                            "scale": 0.6,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "John the Baptist",
+                            "picture": "John the Baptist.png",
+                            "scale": 0.55,
+                            "xoffset": 10,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 30
+                        }
+                    ]
+                },
+                {
+                    "question": "Who was nailed to a cross and lifted up, so we can be made well?",
+                    "correct_picture": "Jesus on Cross Colour.png",
+                    "additional_info": "\"Just as Moses lifted up the snake in the wilderness, so the Son of Man must be lifted up, that everyone who believes may have eternal life in him.\"",
+                    "info_fontsize": 34,    
+                    "characters": [
+                        {
+                            "name": "Jesus",
+                            "picture": "Jesus on Cross Colour.png",
+                            "scale": 0.45,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Noah",
+                            "picture": "Noah Colour.png",
+                            "scale": 0.6,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Daniel",
+                            "picture": "Daniel.png",
+                            "scale": 0.45,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "David",
+                            "picture": "David King.png",
+                            "scale": 0.4,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        }
+                    ]
+                },
+                {
+                    "question": "Who said \"For even the Son of Man did not come to be served, but to serve, and to give His life as a ransom for many.\"?",
+                    "correct_picture": "Jesus Washing Colour.png",
+                    "additional_info": "The highest position in the church is that of a servent.",
+                    "info_fontsize": 36,
+                    "characters": [
+                        {
+                            "name": "Jesus",
+                            "picture": "Jesus Washing Colour.png",
+                            "scale": 0.6,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Paul",
+                            "picture": "Apostle Paul.png",
+                            "scale": 0.5,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Soloman",
+                            "picture": "Solomon Colour.png",
+                            "scale": 0.4,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Moses",
+                            "picture": "Moses Eygpt.png",
+                            "scale": 0.45,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        }
+                    ]
+                },
+                {
+                    "question": "Who was asked three times by Jesus if they loved Him?",
+                    "correct_picture": "Peter Colour.png",
+                    "additional_info": "He is a good God who loves you!",
+                    "info_fontsize": 36,
+                    "characters": [
+                        {
+                            "name": "Peter",
+                            "picture": "Peter Colour.png",
+                            "scale": 0.6,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Paul",
+                            "picture": "Apostle Paul.png",
+                            "scale": 0.5,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Mary Magdalene",
+                            "picture": "Mary Magdalene Colour.png",
+                            "scale": 0.4,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 28
+                        },
+                        {
+                            "name": "Judas",
+                            "picture": "Judas Colour.png",
+                            "scale": 0.45,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        }
+                    ]
+                },
+               
+                {
+                    "question": "Who asked \"Why does your Teacher eat with tax collectors and sinners?\"",
+                    "correct_picture": "Pharisee Colour.png",
+                    "additional_info": "God desires mercy. He is a merciful God!",
+                    "info_fontsize": 36,
+                    "characters": [
+                        {
+                            "name": "Pharisee",
+                            "picture": "Pharisee Colour.png",
+                            "scale": 0.6,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Pilate",
+                            "picture": "Pilate Colour.png",
+                            "scale": 0.5,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Roman Soldier",
+                            "picture": "Roman Soldier Colour.png",
+                            "scale": 0.4,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Shepherd",
+                            "picture": "Shepherd Colour.png",
+                            "scale": 0.45,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        }
+                    ]
+                },
+                {
+                    "question": "Who told us to show kindness to our enemies?",
+                    "correct_picture": "Jesus Sitting 1.png",
+                    "additional_info": "He is kind!",
+                    "info_fontsize": 36,
+                    "characters": [
+                        {
+                            "name": "Jesus",
+                            "picture": "Jesus Sitting 1.png",
+                            "scale": 0.6,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Mary of Bethany",
+                            "picture": "Mary Martha sister Colour.png",
+                            "scale": 0.5,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Shepherd Boy",
+                            "picture": "Shepherd Boy Colour.png",
+                            "scale": 0.4,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Mother Mary",
+                            "picture": "Mary Mother Colour.png",
+                            "scale": 0.45,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        }
+                    ]
+                },
+                {
+                    "question": "Who promised that He will never forsake us and He will always be with us?",
+                    "correct_picture": "Jesus In The Air.png",
+                    "additional_info": "He will never forsake us!",
+                    "info_fontsize": 36,
+                    "characters": [
+                        {
+                            "name": "Jesus",
+                            "picture": "Jesus In The Air.png",
+                            "scale": 0.6,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Paul",
+                            "picture": "Apostle Paul.png",
+                            "scale": 0.5,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Elijah",
+                            "picture": "Elijah2.png",
+                            "scale": 0.4,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Moses",
+                            "picture": "Moses.png",
+                            "scale": 0.45,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "number": 9,
+            "name": "Level 09",
+            "rank": "Arch Angel",
+            "rank_texture": "girl_wings",
+            "level_message": "Almost There!",
+            "character_spritesheet": "level1",
+            "award_texture": "wings",
+            "award_desc": "Wings",
+            "award_verse": "They will soar on wings like eagles...",
+            "background": "background",
+            "quiz": [
+                {
+                    "question": "Who was the mother of Jesus?",
+                    "correct_picture": "Mary Mother Colour.png",
+                    "characters": [
+                        {
+                            "name": "Mary",
+                            "picture": "Mary Mother Colour.png",
+                            "scale": 0.38,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Martha",
+                            "picture": "Martha Colour.png",
+                            "scale": 0.5,
+                            "xoffset": -5,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Ruth",
+                            "picture": "Ruth Colour.png",
+                            "scale": 0.55,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Hannah",
+                            "picture": "Hannah Colour.png",
+                            "scale": 0.4,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        }
+                    ]
+                },
+                {
+                    "question": "Who killed Goliath?",
+                    "correct_picture": "David.png",
+                    "characters": [
+                        {
+                            "name": "Joshua",
+                            "picture": "Joshua.png",
+                            "scale": 0.5,
+                            "xoffset": 0,
+                            "yoffset": -10,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Gideon",
+                            "picture": "Gideon.png",
+                            "scale": 0.55,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Jonathan",
+                            "picture": "Jonathan Colour.png",
+                            "scale": 0.5,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "David",
+                            "picture": "David.png",
+                            "scale": 0.5,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        }
+                    ]
+                },
+                {
+                    "question": "Who was Abraham's wife?",
+                    "correct_picture": "Sarah.png",
+                    "characters": [
+                        {
+                            "name": "Ruth",
+                            "picture": "Ruth Colour.png",
+                            "scale": 0.55,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Esther",
+                            "picture": "Esther Colour.png",
+                            "scale": 0.45,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Sarah",
+                            "picture": "Sarah.png",
+                            "scale": 0.55,
+                            "xoffset": -15,
+                            "yoffset": -5,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Mary Magdalene",
+                            "picture": "Mary Magdalene Colour.png",
+                            "scale": 0.4,
+                            "xoffset": -5,
+                            "yoffset": 0,
+                            "labelxoffset": -5,
+                            "labelyoffset": 0,
+                            "fontSize": 28
+                        }
+                    ]
+                },
+                {
+                    "question": "Which disciple denied Jesus three times?",
+                    "correct_picture": "Peter Colour.png",
+                    "characters": [
+                        {
+                            "name": "Judas",
+                            "picture": "Judas Colour.png",
+                            "scale": 0.45,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Paul",
+                            "picture": "Apostle Paul.png",
+                            "scale": 0.5,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Peter",
+                            "picture": "Peter Colour.png",
+                            "scale": 0.6,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "John the Baptist",
+                            "picture": "John the Baptist.png",
+                            "scale": 0.55,
+                            "xoffset": 10,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 30
+                        }
+                    ]
+                },
+                {
+                    "question": "Who was the first king of Israel?",
+                    "correct_picture": "Saul Colour.png",
+                    "characters": [
+                        {
+                            "name": "David",
+                            "picture": "David King.png",
+                            "scale": 0.45,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Solomon",
+                            "picture": "Solomon Colour.png",
+                            "scale": 0.6,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Saul",
+                            "picture": "Saul Colour.png",
+                            "scale": 0.45,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Ahab",
+                            "picture": "Ahab",
+                            "scale": 0.4,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        }
+                    ]
+                },
+                {
+                    "question": "Who was converted by Jesus on the road to Damascus?",
+                    "correct_picture": "Apostle Paul.png",
+                    "characters": [
+                        {
+                            "name": "Peter",
+                            "picture": "Peter Colour.png",
+                            "scale": 0.6,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Paul",
+                            "picture": "Apostle Paul.png",
+                            "scale": 0.5,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Mary Magdalene",
+                            "picture": "Mary Magdalene Colour.png",
+                            "scale": 0.4,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 28
+                        },
+                        {
+                            "name": "Judas",
+                            "picture": "Judas Colour.png",
+                            "scale": 0.45,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        }
+                    ]
+                },
+                {
+                    "question": "Who was converted by Jesus on the road to Damascus?",
+                    "correct_picture": "Apostle Paul.png",
+                    "characters": [
+                        {
+                            "name": "Peter",
+                            "picture": "Peter Colour.png",
+                            "scale": 0.6,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Paul",
+                            "picture": "Apostle Paul.png",
+                            "scale": 0.5,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Mary Magdalene",
+                            "picture": "Mary Magdalene Colour.png",
+                            "scale": 0.4,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 28
+                        },
+                        {
+                            "name": "Judas",
+                            "picture": "Judas Colour.png",
+                            "scale": 0.45,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        }
+                    ]
+                },
+                {
+                    "question": "Who was converted by Jesus on the road to Damascus?",
+                    "correct_picture": "Apostle Paul.png",
+                    "characters": [
+                        {
+                            "name": "Peter",
+                            "picture": "Peter Colour.png",
+                            "scale": 0.6,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Paul",
+                            "picture": "Apostle Paul.png",
+                            "scale": 0.5,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Mary Magdalene",
+                            "picture": "Mary Magdalene Colour.png",
+                            "scale": 0.4,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 28
+                        },
+                        {
+                            "name": "Judas",
+                            "picture": "Judas Colour.png",
+                            "scale": 0.45,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        }
+                    ]
+                },
+                {
+                    "question": "Who was converted by Jesus on the road to Damascus?",
+                    "correct_picture": "Apostle Paul.png",
+                    "characters": [
+                        {
+                            "name": "Peter",
+                            "picture": "Peter Colour.png",
+                            "scale": 0.6,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Paul",
+                            "picture": "Apostle Paul.png",
+                            "scale": 0.5,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Mary Magdalene",
+                            "picture": "Mary Magdalene Colour.png",
+                            "scale": 0.4,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 28
+                        },
+                        {
+                            "name": "Judas",
+                            "picture": "Judas Colour.png",
+                            "scale": 0.45,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        }
+                    ]
+                },
+                {
+                    "question": "Who was converted by Jesus on the road to Damascus?",
+                    "correct_picture": "Apostle Paul.png",
+                    "characters": [
+                        {
+                            "name": "Peter",
+                            "picture": "Peter Colour.png",
+                            "scale": 0.6,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Paul",
+                            "picture": "Apostle Paul.png",
+                            "scale": 0.5,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Mary Magdalene",
+                            "picture": "Mary Magdalene Colour.png",
+                            "scale": 0.4,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 28
+                        },
+                        {
+                            "name": "Judas",
+                            "picture": "Judas Colour.png",
+                            "scale": 0.45,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

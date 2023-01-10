@@ -1,0 +1,103 @@
+{
+	"textures": [
+		{
+			"image": "heavensparkle",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1920,
+				"h": 742
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "heavensparkle1.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 640,
+						"h": 371
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 640,
+						"h": 371
+					},
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 640,
+						"h": 371
+					}
+				},
+				{
+					"filename": "heavensparkle2.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 640,
+						"h": 371
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 640,
+						"h": 371
+					},
+					"frame": {
+						"x": 640,
+						"y": 0,
+						"w": 640,
+						"h": 371
+					}
+				},
+				{
+					"filename": "heavensparkle3.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 640,
+						"h": 371
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 640,
+						"h": 371
+					},
+					"frame": {
+						"x": 1280,
+						"y": 0,
+						"w": 640,
+						"h": 371
+					}
+				},
+				{
+					"filename": "heavensparkle4.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 640,
+						"h": 371
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 640,
+						"h": 371
+					},
+					"frame": {
+						"x": 0,
+						"y": 371,
+						"w": 640,
+						"h": 371
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "http://free-tex-packer.com",
+		"version": "0.6.7"
+	}
+}

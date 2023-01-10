@@ -1,0 +1,3062 @@
+{
+    "quiz_length": 7,
+    "levels": [
+        {
+            "number": 1,
+            "name": "Level 01",
+            "rank": "Private Angel",
+            "rank_texture": "girl",
+            "level_message": "Good Job!",
+            "character_spritesheet": "level1",
+            "award_texture": "helmet",
+            "award_desc": "The Helmet of Salvation",
+            "award_verse": "Take the helmet of salvation...",
+            "background": "background",
+            "quiz": [
+                {
+                    "question": "I came down from heaven as the living word of God, my first days started in a stable. Who am I?",
+                    "correct_picture": "Jesus Baby Colour.png",
+                    "additional_info": "Jesus’ mission on earth was to ‘show and tell’. Show us how to think and behave, and tell us the good news on how to be saved and be with God forever.",
+                    "info_fontsize": 28,
+                    "characters": [
+                        {
+                            "name": "Jesus",
+                            "picture": "Jesus Baby Colour.png",
+                            "scale": 0.6,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Moses",
+                            "picture": "Moses Baby.png",
+                            "scale": 0.6,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Elisha",
+                            "picture": "Elisha the Prophet Colour.png",
+                            "scale": 0.6,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Mary",
+                            "picture": "Mary Mother Colour.png",
+                            "scale": 0.38,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        }
+                    ]
+                },
+                {
+                    "question": "Who declared that \"The Spirit of the Lord spoke by me, and His word was on my tongue.\"?",
+                    "correct_picture": "David Warrior Colour.png",
+                    "additional_info": "Archaeologists consistently find evidence that biblical stories are true. The ancient \"City of David\" was discovered in 1867 proving David was a real person.",
+                    "info_fontsize": 30,
+                    "characters": [
+                        {
+                            "name": "David",
+                            "picture": "David Warrior Colour.png",
+                            "scale": 0.5,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Gideon",
+                            "picture": "Gideon.png",
+                            "scale": 0.6,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Hannah",
+                            "picture": "Hannah Colour.png",
+                            "scale": 0.45,
+                            "xoffset": 0,
+                            "yoffset": -10,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Joshua",
+                            "picture": "Joshua.png",
+                            "scale": 0.5,
+                            "xoffset": 0,
+                            "yoffset": -10,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        }
+                    ]
+                },
+                {
+                    "question": "I wear armour for my own protection and I’m highly trained. Who am I?",
+                    "correct_picture": "Roman Soldier Colour.png",
+                    "additional_info": "Like the Roman soldier, a christian soldier must wear armour for our own safety and protection. We are in battle 7 days a week.",
+                    "info_fontsize": 30,
+                    "characters": [
+                        {
+                            "name": "Roman Soldier",
+                            "picture": "Roman Soldier Colour.png",
+                            "scale": 0.38,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Shepherd",
+                            "picture": "Shepherd Colour.png",
+                            "scale": 0.5,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Pharisee",
+                            "picture": "Pharisee Colour.png",
+                            "scale": 0.55,
+                            "xoffset": -15,
+                            "yoffset": -5,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "High Priest",
+                            "picture": "High Priest.png",
+                            "scale": 0.55,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        }
+                    ]
+                },
+                {
+                    "question": "According to the Bible, who ordered Jesus to be crucified?",
+                    "correct_picture": "Pilate Colour.png",
+                    "additional_info": "The crucifixion of Jesus was also documented in historical documents by the Roman Senator Tacticus.",
+                    "info_fontsize": 34,
+                    "characters": [
+                        {
+                            "name": "Pontius Pilate",
+                            "picture": "Pilate Colour.png",
+                            "scale": 0.6,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Paul",
+                            "picture": "Apostle Paul.png",
+                            "scale": 0.5,
+                            "xoffset": 10,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "King Herod",
+                            "picture": "Herod Colour.png",
+                            "scale": 0.55,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Judas",
+                            "picture": "Judas Colour.png",
+                            "scale": 0.45,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        }
+                    ]
+                },
+                {
+                    "question": "Which apostle walked on water?",
+                    "correct_picture": "Peter Colour.png",
+                    "additional_info": "Peter was also put in prison but was released by an angel.",
+                    "info_fontsize": 36,
+                    "characters": [
+                        {
+                            "name": "Peter",
+                            "picture": "Peter Colour.png",
+                            "scale": 0.55,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Paul",
+                            "picture": "Apostle Paul.png",
+                            "scale": 0.5,
+                            "xoffset": 10,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Judas",
+                            "picture": "Judas Colour.png",
+                            "scale": 0.6,
+                            "xoffset": 0,
+                            "yoffset": -5,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "John the Baptist",
+                            "picture": "John the Baptist.png",
+                            "scale": 0.6,
+                            "xoffset": 5,
+                            "yoffset": -5,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 28
+                        }
+                    ]
+                },
+                {
+                    "question": "Who ate a diet of locust and honey in the desert?",
+                    "correct_picture": "John the Baptist.png",
+                    "additional_info": "People would flock to the desert to hear John the Baptist’s message. He called the religious leaders a ‘generation of vipers’.",
+                    "info_fontsize": 32,
+                    "characters": [
+                        {
+                            "name": "Possessed Man",
+                            "picture": "Demon Possessed Man Colour.png",
+                            "scale": 0.5,
+                            "xoffset": -5,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 28
+                        },
+                        {
+                            "name": "John the Baptist",
+                            "picture": "John the Baptist.png",
+                            "scale": 0.55,
+                            "xoffset": 10,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 28
+                        },
+                        {
+                            "name": "Job",
+                            "picture": "Job Sick Colour.png",
+                            "scale": 0.65,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Elijah",
+                            "picture": "Elijah Running Colour.png",
+                            "scale": 0.6,
+                            "xoffset": 0,
+                            "yoffset": -5,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        }
+                    ]
+                },
+                {
+                    "question": "I worked so hard to make sure that everyone was fed, that I didn’t take in Jesus’ words. Who am I?",
+                    "correct_picture": "Martha Colour.png",
+                    "additional_info": "Martha was nourishing the body, Mary was nourishing her soul.",
+                    "info_fontsize": 36,
+                    "characters": [
+                        {
+                            "name": "Martha",
+                            "picture": "Martha Colour.png",
+                            "scale": 0.55,
+                            "xoffset": 10,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Mary",
+                            "picture": "Mary Martha sister Colour.png",
+                            "scale": 0.5,
+                            "xoffset": -5,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Mother Mary",
+                            "picture": "Mary Mother Colour.png",
+                            "scale": 0.38,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Ruth",
+                            "picture": "Ruth Colour.png",
+                            "scale": 0.6,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        }
+                    ]
+                
+                }
+            ]
+        },
+        {
+            "number": 2,
+            "name": "Level 02",
+            "rank": "Specialist Angel",
+            "rank_texture": "girl_helmet",
+            "level_message": "Well Done!",
+            "character_spritesheet": "level1",
+            "award_texture": "boots",
+            "award_desc": "Boots of Peace",
+            "award_verse": "...and with your feet fitted with the readiness that comes from the gospel of peace.",
+            "background": "background",
+            "quiz": [
+                {
+                    "question": "Which prophet rebuked David for his evil actions?",
+                    "correct_picture": "Nathan Colour.png",
+                    "additional_info": "God still expects us to live righteous lives that reflect who we say we are.",
+                    "info_fontsize": 36,
+                    "characters": [
+                        {
+                            "name": "Nathan",
+                            "picture": "Nathan Colour.png",
+                            "scale": 0.6,
+                            "xoffset": 5,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Elijah",
+                            "picture": "Elijah2.png",
+                            "scale": 0.65,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Deborah",
+                            "picture": "Deborah.png",
+                            "scale": 0.6,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Ruth",
+                            "picture": "Ruth Colour.png",
+                            "scale": 0.55,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        }
+                    ]
+                },
+                {
+                    "question": "What prophet, the wife of Lappidoth, led Israel in the Book of Judges?",
+                    "correct_picture": "Deborah.png",
+                    "additional_info": "God gives all His people special insight, wisdom and knowledge.",
+                    "info_fontsize": 36,
+                    "characters": [
+                        {
+                            "name": "Deborah",
+                            "picture": "Deborah.png",
+                            "scale": 0.6,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Sarah",
+                            "picture": "Sarah.png",
+                            "scale": 0.55,
+                            "xoffset": -15,
+                            "yoffset": -5,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Esther",
+                            "picture": "Esther Colour.png",
+                            "scale": 0.45,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Ruth",
+                            "picture": "Ruth Colour.png",
+                            "scale": 0.55,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        }
+                    ]
+                },
+                {
+                    "question": "I had a son very late in life. Who am I?",
+                    "correct_picture": "Sarah.png",
+                    "additional_info": "Sarah had much trouble trusting God. If God promises something, we better believe it.",
+                    "info_fontsize": 36,
+                    "characters": [
+                        {
+                            "name": "Sarah",
+                            "picture": "Sarah.png",
+                            "scale": 0.5,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Mother Mary",
+                            "picture": "Mary Jesus Colour.png",
+                            "scale": 0.5,
+                            "xoffset": 5,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Bathsheba",
+                            "picture": "Bathsheba Colour.png",
+                            "scale": 0.45,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Job's Wife",
+                            "picture": "Jobs Wife Colour.png",
+                            "scale": 0.5,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        }
+                    ]
+                },
+                {
+                    "question": "Who was given a coat ,woven of many beautiful colours, for his 17th birthday?",
+                    "correct_picture": "Joseph.png",
+                    "additional_info": "Wearing the coat meant that Jacob thought more of Joseph than his older brothers. Favoritism creates division and Jealousy.",
+                    "info_fontsize": 32,
+                    "characters": [
+                        {
+                            "name": "Joseph",
+                            "picture": "Joseph.png",
+                            "scale": 0.5,
+                            "xoffset": 10,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Solomon",
+                            "picture": "Solomon Colour.png",
+                            "scale": 0.6,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Abraham",
+                            "picture": "Abraham.png",
+                            "scale": 0.6,
+                            "xoffset": -5,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Moses",
+                            "picture": "Moses.png",
+                            "scale": 0.6,
+                            "xoffset": 5,
+                            "yoffset": -5,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        }
+                    ]
+                },
+                {
+                    "question": "Who was afraid that God’s people would become stronger than his own nation, that he made them slaves?",
+                    "correct_picture": "Pharoah.png",
+                    "additional_info": "Ten plagues did not convince Pharaoh he was dealing with a powerful God.",
+                    "info_fontsize": 36,
+                    "characters": [
+                        {
+                            "name": "Pharoah",
+                            "picture": "Pharoah.png",
+                            "scale": 0.5,
+                            "xoffset": -5,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Nebuchadnezzar",
+                            "picture": "Nebuchadnezzar.png",
+                            "scale": 0.5,
+                            "xoffset": 5,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 28
+                        },
+                        {
+                            "name": "Pontius Pilate",
+                            "picture": "Pilate Colour.png",
+                            "scale": 0.6,
+                            "xoffset": 0,
+                            "yoffset": -5,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Uriah",
+                            "picture": "Uriah the Hittite Colour.png",
+                            "scale": 0.55,
+                            "xoffset": 10,
+                            "yoffset": 0,
+                            "labelxoffset": -5,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        }
+                    ]
+                },
+                {
+                    "question": "I anointed the first king over Israel. Who am I?",
+                    "correct_picture": "Samuel Colour.png",
+                    "additional_info": "God told Samuel to warn the people a king would order them about, oppress and tax them.",
+                    "info_fontsize": 36,
+                    "characters": [
+                        {
+                            "name": "Samuel",
+                            "picture": "Samuel Colour.png",
+                            "scale": 0.5,
+                            "xoffset": 10,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Nicodemus",
+                            "picture": "Teacher Colour.png",
+                            "scale": 0.5,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Elisha",
+                            "picture": "Elisha the Prophet Colour.png",
+                            "scale": 0.6,
+                            "xoffset": 0,
+                            "yoffset": -5,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Nathan",
+                            "picture": "Nathan Colour.png",
+                            "scale": 0.55,
+                            "xoffset": 10,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        }
+                    ]
+                },
+                {
+                    "question": "Who, out of eight brothers, tended his father’s sheep?",
+                    "correct_picture": "David Shepherd Colour.png",
+                    "additional_info": "David learnt courage and tenderness while caring for sheep which was later used in battle and dealings with others.",
+                    "info_fontsize": 32,
+                    "characters": [
+                        {
+                            "name": "David",
+                            "picture": "David Shepherd Colour.png",
+                            "scale": 0.6,
+                            "xoffset": 5,
+                            "yoffset": -5,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Mephibosheth",
+                            "picture": "Mephibosheth Colour.png",
+                            "scale": 0.6,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Isaac",
+                            "picture": "Isaac.png",
+                            "scale": 0.65,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Joseph",
+                            "picture": "Joseph Mary Colour.png",
+                            "scale": 0.55,
+                            "xoffset": 10,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "number": 3,
+            "name": "Level 03",
+            "rank": "Corporal Angel",
+            "rank_texture": "girl_boots",
+            "level_message": "Amazing!",
+            "character_spritesheet": "level1",
+            "award_texture": "breastplate",
+            "award_desc": "Breastplate of Righteousness",
+            "award_verse": "...with the breastplate of righteousness in place,...",
+            "background": "background",
+            "quiz": [
+                {
+                    "question": "Who said to Jesus \"You are the Messiah, the Son of the living God.\"?",
+                    "correct_picture": "Peter Colour.png",
+                    "additional_info": "Jesus has called us into righteousness.",
+                    "info_fontsize": 36,
+                    "characters": [
+                        {
+                            "name": "Peter",
+                            "picture": "Peter Colour.png",
+                            "scale": 0.6,
+                            "xoffset": 0,
+                            "yoffset": -5,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Paul",
+                            "picture": "Apostle Paul.png",
+                            "scale": 0.5,
+                            "xoffset": 10,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Mary Magdalene",
+                            "picture": "Mary Magdalene Colour.png",
+                            "scale": 0.4,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 28
+                        },
+                        {
+                            "name": "Martha",
+                            "picture": "Martha Colour.png",
+                            "scale": 0.5,
+                            "xoffset": -5,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        }
+                    ]
+                },
+                {
+                    "question": "Who wrote \"This righteousness is given through faith in Jesus Christ to all who believe.\"?",
+                    "correct_picture": "Apostle Paul.png",
+                    "additional_info": "God is good! Jesus is the way!",
+                    "info_fontsize": 36,
+                    "characters": [
+                        {
+                            "name": "Peter",
+                            "picture": "Peter Colour.png",
+                            "scale": 0.6,
+                            "xoffset": 0,
+                            "yoffset": -5,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Paul",
+                            "picture": "Apostle Paul.png",
+                            "scale": 0.5,
+                            "xoffset": 10,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Martha",
+                            "picture": "Martha Colour.png",
+                            "scale": 0.5,
+                            "xoffset": -5,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "John the Baptist",
+                            "picture": "John the Baptist.png",
+                            "scale": 0.55,
+                            "xoffset": 10,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 30
+                        }
+                    ]
+                },
+                {
+                    "question": "Who was the first king of Israel?",
+                    "correct_picture": "Saul Colour.png",
+                    "additional_info": "King Saul started out well, but soon fell into disobedience. He wasted most of his time chasing David through the hills instead of building up Israel.",
+                    "info_fontsize": 30,
+                    "characters": [
+                        {
+                            "name": "Saul",
+                            "picture": "Saul Colour.png",
+                            "scale": 0.6,
+                            "xoffset": 5,
+                            "yoffset": -5,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "David",
+                            "picture": "David King.png",
+                            "scale": 0.6,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Jehoshaphat",
+                            "picture": "King Jehoshaphat Colour.png",
+                            "scale": 0.65,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Ishbosheth",
+                            "picture": "Ishbosheth Colour.png",
+                            "scale": 0.5,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        }
+                    ]
+                },
+                {
+                    "question": "Which of Saul’s sons became a friend to David?",
+                    "correct_picture": "Jonathan Colour.png",
+                    "additional_info": "Jonathan was a famous archer.",
+                    "info_fontsize": 36,
+                    "characters": [
+                        {
+                            "name": "Jonathan",
+                            "picture": "Jonathan Colour.png",
+                            "scale": 0.5,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Ishbosheth",
+                            "picture": "Ishbosheth Colour.png",
+                            "scale": 0.6,
+                            "xoffset": 5,
+                            "yoffset": -5,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Asahel",
+                            "picture": "Asahel Colour.png",
+                            "scale": 0.5,
+                            "xoffset": 10,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Benaiah",
+                            "picture": "Benaiah Colour.png",
+                            "scale": 0.5,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        }
+                    ]
+                },
+                {
+                    "question": "I am the mother of Solomon. Who am I?",
+                    "correct_picture": "Bathsheba Colour.png",
+                    "additional_info": "David killed Bathsheba’s husband then took her for his wife.",
+                    "info_fontsize": 36,
+                    "characters": [
+                        {
+                            "name": "Bathsheba",
+                            "picture": "Bathsheba Colour.png",
+                            "scale": 0.55,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Sarah",
+                            "picture": "Sarah.png",
+                            "scale": 0.45,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Queen of Sheba",
+                            "picture": "Queen Sheba Colour.png",
+                            "scale": 0.55,
+                            "xoffset": -15,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 28
+                        },
+                        {
+                            "name": "Hannah",
+                            "picture": "Hannah Colour.png",
+                            "scale": 0.4,
+                            "xoffset": -5,
+                            "yoffset": 0,
+                            "labelxoffset": -5,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        }
+                    ]
+                },
+                {
+                    "question": "My name means “fool or idiot”. Who am I?",
+                    "correct_picture": "Nabal Colour.png",
+                    "additional_info": "Nabal and his farm worker narrowly avoided being killed by David and his men.",
+                    "info_fontsize": 36,
+                    "characters": [
+                        {
+                            "name": "Nabal",
+                            "picture": "Nabal Colour.png",
+                            "scale": 0.45,
+                            "xoffset": 0,
+                            "yoffset": -5,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Absalom",
+                            "picture": "Absalom Colour.png",
+                            "scale": 0.6,
+                            "xoffset": 5,
+                            "yoffset": -5,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Ahab",
+                            "picture": "Ahab Colour.png",
+                            "scale": 0.5,
+                            "xoffset": 10,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Herod",
+                            "picture": "Herod Colour.png",
+                            "scale": 0.6,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        }
+                    ]
+                },
+                {
+                    "question": "Who built the Temple at Jerusalem?",
+                    "correct_picture": "Solomon Colour.png",
+                    "additional_info": "Solomon was a merchant as well as a monarch. He sent ships to Africa and brought back, among other things, exotic creatures like apes and baboons.",
+                    "info_fontsize": 30,
+                    "characters": [
+                        {
+                            "name": "Solomon",
+                            "picture": "Solomon Colour.png",
+                            "scale": 0.45,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Moses",
+                            "picture": "Moses.png",
+                            "scale": 0.55,
+                            "xoffset": 10,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "David",
+                            "picture": "David King.png",
+                            "scale": 0.45,
+                            "xoffset": 0,
+                            "yoffset": -5,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Joshua",
+                            "picture": "Joshua.png",
+                            "scale": 0.6,
+                            "xoffset": 5,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "number": 4,
+            "name": "Level 04",
+            "rank": "Sergeant Angel",
+            "rank_texture": "girl_breastplate",
+            "level_message": "Awesome!",
+            "character_spritesheet": "level1",
+            "award_texture": "belt",
+            "award_desc": "Belt of Truth",
+            "award_verse": "Stand firm then, with the belt of truth buckled around your waist,...",
+            "background": "background",
+            "quiz": [
+                {
+                    "question": "To whom did Jesus say \"I was born and came into the world to testify to the truth. Everyone on the side of truth listens to me.\"?",
+                    "correct_picture": "Pilate Colour.png",
+                    "additional_info": "We testify that Jesus is Lord! That He is the Truth",
+                    "info_fontsize": 36,
+                    "characters": [
+                        {
+                            "name": "Pontius Pilate",
+                            "picture": "Pilate Colour.png",
+                            "scale": 0.6,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Joseph",
+                            "picture": "Joseph Mary Colour.png",
+                            "scale": 0.5,
+                            "xoffset": 10,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Mary Magdalene",
+                            "picture": "Mary Magdalene Colour.png",
+                            "scale": 0.4,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 28
+                        },
+                        {
+                            "name": "Judas",
+                            "picture": "Judas Colour.png",
+                            "scale": 0.45,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        }
+                    ]
+                },
+                {
+                    "question": "Who said \"Speak, for your servant is listening\"?",
+                    "correct_picture": "Samuel Colour.png",
+                    "additional_info": "To hear God, we need to get in His presence and listen.",
+                    "info_fontsize": 36,
+                    "characters": [
+                        {
+                            "name": "Samuel",
+                            "picture": "Samuel Colour.png",
+                            "scale": 0.6,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Moses",
+                            "picture": "Moses.png",
+                            "scale": 0.5,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Elijah",
+                            "picture": "Elijah2.png",
+                            "scale": 0.4,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Nathan",
+                            "picture": "Nathan Colour.png",
+                            "scale": 0.45,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        }
+                    ]
+                },
+
+                {
+                    "question": "Which prophet was fed by ravens?",
+                    "correct_picture": "Elijah Colour.png",
+                    "additional_info": "The raven is the first bird named in the bible.",
+                    "info_fontsize": 36,
+                    "characters": [
+                        {
+                            "name": "Elijah",
+                            "picture": "Elijah Colour.png",
+                            "scale": 0.6,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Elisha",
+                            "picture": "Elisha the Prophet Colour.png",
+                            "scale": 0.5,
+                            "xoffset": 10,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Samuel",
+                            "picture": "Samuel Colour.png",
+                            "scale": 0.4,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Nathan",
+                            "picture": "Nathan Colour.png",
+                            "scale": 0.45,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        }
+                    ]
+                },
+                {
+                    "question": "My big mistake was to come under the influence of my wife Jezebel. Who am I?",
+                    "correct_picture": "Ahab Colour.png",
+                    "additional_info": "Ahab was on the throne at the same time Elijah was prophet.",
+                    "info_fontsize": 36,
+                    "characters": [
+                        {
+                            "name": "Ahab",
+                            "picture": "Ahab Colour.png",
+                            "scale": 0.38,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Elijah",
+                            "picture": "Elijah Running Colour.png",
+                            "scale": 0.5,
+                            "xoffset": 10,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "David",
+                            "picture": "David Warrior Colour.png",
+                            "scale": 0.4,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Jehu",
+                            "picture": "Jehu Colour.png",
+                            "scale": 0.45,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        }
+                    ]
+                },
+                {
+                    "question": "Who was the cousin of Esther and raised her like a daughter?",
+                    "correct_picture": "Mordecai Colour.png",
+                    "additional_info": "Mordecai discovered a plot to kill the king.",
+                    "info_fontsize": 36,
+                    "characters": [
+                        {
+                            "name": "Mordecai",
+                            "picture": "Mordecai Colour.png",
+                            "scale": 0.6,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Gideon",
+                            "picture": "Gideon.png",
+                            "scale": 0.5,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Joab",
+                            "picture": "Joab Colour.png",
+                            "scale": 0.4,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Daniel",
+                            "picture": "Daniel.png",
+                            "scale": 0.45,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        }
+                    ]
+                },
+                {
+                    "question": "I put my parents through a lot of worry when I stayed after the Feast of the Passover. Who am I?",
+                    "correct_picture": "Jesus Young Colour.png",
+                    "additional_info": "After three days Jesus’ parents found Him in the Temple.",
+                    "info_fontsize": 36,
+                    "characters": [
+                        {
+                            "name": "Jesus",
+                            "picture": "Jesus Young Colour.png",
+                            "scale": 0.6,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Isaac",
+                            "picture": "Isaac.png",
+                            "scale": 0.5,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "David",
+                            "picture": "David Shepherd Colour.png",
+                            "scale": 0.4,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Mephibosheth",
+                            "picture": "Mephibosheth Colour.png",
+                            "scale": 0.45,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 28
+                        }
+                    ]
+                },
+                {
+                    "question": "While on earth, I showed people my power over created things, and the greatest love of all. I will lay down my life for them. Who am I?",
+                    "correct_picture": "Jesus Welcome.png",
+                    "additional_info": "“I am the way, and the truth, and the life; no one comes to the Father, but through Me”. (John 14:6)",
+                    "info_fontsize": 32,
+                    "characters": [
+                        {
+                            "name": "Jesus",
+                            "picture": "Jesus Welcome.png",
+                            "scale": 0.6,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Moses",
+                            "picture": "Moses.png",
+                            "scale": 0.5,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "David",
+                            "picture": "David King.png",
+                            "scale": 0.4,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Mother Mary",
+                            "picture": "Mary Old Colour.png",
+                            "scale": 0.45,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "number": 5,
+            "name": "Level 05",
+            "rank": "Lieutenant Angel",
+            "rank_texture": "girl_belt",
+            "level_message": "Nice Work!",
+            "character_spritesheet": "level1",
+            "award_texture": "shield",
+            "award_desc": "Shield of Faith",
+            "award_verse": "... take up the shield of faith, with which you can extinguish all the flaming arrows of the evil one.",
+            "background": "background",
+            "quiz": [
+                {
+                    "question": "Who did God speak to in a \"small still voice\"?",
+                    "correct_picture": "Elijah2.png",
+                    "additional_info": "God favors small things! A word from God changes everything!",
+                    "info_fontsize": 36,
+                    "characters": [
+                        {
+                            "name": "Elijah",
+                            "picture": "Elijah2.png",
+                            "scale": 0.6,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Peter",
+                            "picture": "Peter Colour.png",
+                            "scale": 0.5,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "David",
+                            "picture": "David.png",
+                            "scale": 0.4,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Esther",
+                            "picture": "Esther Colour.png",
+                            "scale": 0.45,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        }
+                    ]
+                },
+                {
+                    "question": "Who sang \"The Lord is my rock, my fortress and my deliverer...in whom I take refuge, my shield and the horn my salvation.\"?",
+                    "correct_picture": "David Warrior Colour.png",
+                    "additional_info": "Our God is our great defender!",
+                    "info_fontsize": 36,
+                    "characters": [
+                        {
+                            "name": "David",
+                            "picture": "David Warrior Colour.png",
+                            "scale": 0.6,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Saul",
+                            "picture": "Saul Colour.png",
+                            "scale": 0.5,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Ruth",
+                            "picture": "Ruth Colour.png",
+                            "scale": 0.4,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Jacob",
+                            "picture": "Jacob.png",
+                            "scale": 0.45,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        }
+                    ]
+                },
+                {
+                    "question": "They try to keep every part of the law God had given Moses, plus some more of their own?",
+                    "correct_picture": "Pharisee Colour.png",
+                    "additional_info": "Pharisees gave the outward appearance of keeping the Law, but their hearts were far from God.",
+                    "info_fontsize": 36,
+                    "characters": [
+                        {
+                            "name": "Pharisees",
+                            "picture": "Pharisee Colour.png",
+                            "scale": 0.38,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Amelekite Raiders",
+                            "picture": "Amalekite Raider Colour.png",
+                            "scale": 0.5,
+                            "xoffset": -5,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 28
+                        },
+                        {
+                            "name": "Shepherds",
+                            "picture": "Shepherd Colour.png",
+                            "scale": 0.55,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Romans",
+                            "picture": "Roman Soldier Colour.png",
+                            "scale": 0.4,
+                            "xoffset": 0,
+                            "yoffset": 10,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        }
+                    ]
+                },
+                {
+                    "question": "Which men came from the east to worship Jesus after his birth?",
+                    "correct_picture": "Wiseman 2 Colour.png",
+                    "additional_info": "The Magi were experts in maths and science. Their entrance into Israel was monitored by Herod by means of hill-top forts.",
+                    "info_fontsize": 32,
+                    "characters": [
+                        {
+                            "name": "Magi",
+                            "picture": "Wiseman 2 Colour.png",
+                            "scale": 0.5,
+                            "xoffset": 0,
+                            "yoffset": -10,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Shepherds",
+                            "picture": "Shepherd Colour.png",
+                            "scale": 0.55,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Egyptians",
+                            "picture": "Egypt Guard.png",
+                            "scale": 0.5,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Samarians",
+                            "picture": "Good Samaritan Colour.png",
+                            "scale": 0.5,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        }
+                    ]
+                },
+                {
+                    "question": "Who was the Roman Governor who sentenced Jesus to death?",
+                    "correct_picture": "Pilate Colour.png",
+                    "additional_info": "Pilate knew Jesus was innocent and able to uphold justice, instead he gave in to the demands of the crowd. He washed his hands of it.",
+                    "info_fontsize": 32,
+                    "characters": [
+                        {
+                            "name": "Pontius Pilate",
+                            "picture": "Pilate Colour.png",
+                            "scale": 0.55,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Herod Antipas",
+                            "picture": "Herod A Colour.png",
+                            "scale": 0.45,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Herod the Great",
+                            "picture": "Herod Colour.png",
+                            "scale": 0.55,
+                            "xoffset": -15,
+                            "yoffset": -5,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 28
+                        },
+                        {
+                            "name": "Absalom",
+                            "picture": "Absalom Colour.png",
+                            "scale": 0.4,
+                            "xoffset": -5,
+                            "yoffset": 0,
+                            "labelxoffset": -5,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        }
+                    ]
+                },
+                {
+                    "question": "Two angels asked me why I was weeping. Who am I?",
+                    "correct_picture": "Mary Magdalene Colour.png",
+                    "additional_info": "Mary Magdalene didn’t recognise Jesus because He had risen again and had a changed body.",
+                    "info_fontsize": 32,
+                    "characters": [
+                        {
+                            "name": "Mary Magdalene",
+                            "picture": "Mary Magdalene Colour.png",
+                            "scale": 0.45,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 28
+                        },
+                        {
+                            "name": "Mother Mary",
+                            "picture": "Mary Mother Colour.png",
+                            "scale": 0.5,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Mary of Bethany",
+                            "picture": "Mary Martha sister Colour.png",
+                            "scale": 0.6,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 28
+                        },
+                        {
+                            "name": "Martha",
+                            "picture": "Martha Colour.png",
+                            "scale": 0.55,
+                            "xoffset": 10,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        }
+                    ]
+                },
+                {
+                    "question": "In a parable, this man requests Lazarus give him water to cool his tongue as he is in flames?",
+                    "correct_picture": "Rich Man Colour.png",
+                    "additional_info": "How we treat others is important. The rich man finds out that after death there is no second chance of salvation. Rev 20:15",
+                    "info_fontsize": 30,
+                    "characters": [
+                        {
+                            "name": "Rich Man",
+                            "picture": "Rich Man Colour.png",
+                            "scale": 0.45,
+                            "xoffset": 0,
+                            "yoffset": -5,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Wounded Man",
+                            "picture": "Wounded Man Colour.png",
+                            "scale": 0.6,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Good Samaritan",
+                            "picture": "Good Samaritan Colour.png",
+                            "scale": 0.45,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 30
+                        },
+                        {
+                            "name": "Pharisee",
+                            "picture": "Pharisee Colour.png",
+                            "scale": 0.4,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        }
+                    ]
+                },
+                {
+                    "question": "Who was covered in sores and waited for scraps from a richman’s table?",
+                    "correct_picture": "Lazarus Colour.png",
+                    "additional_info": "During Lazarus’s life on earth he received bad things, but now he is comforted in heaven. Luke 16:2",
+                    "info_fontsize": 32,
+                    "characters": [
+                        {
+                            "name": "Lazarus",
+                            "picture": "Lazarus Colour.png",
+                            "scale": 0.6,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Job",
+                            "picture": "Job Sick Colour.png",
+                            "scale": 0.5,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Possessed Man",
+                            "picture": "Demon Possessed Man Colour.png",
+                            "scale": 0.4,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 30
+                        },
+                        {
+                            "name": "Wounded Man",
+                            "picture": "Wounded Man Colour.png",
+                            "scale": 0.45,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        }
+                    ]
+                },
+                {
+                    "question": "I was robbed, beaten and left half dead on the side of the road. Who am I?",
+                    "correct_picture": "Wounded Man Colour.png",
+                    "additional_info": "What does your behaviour reveal when no one is watching?",
+                    "info_fontsize": 36,
+                    "characters": [
+                        {
+                            "name": "The Wounded Man",
+                            "picture": "Wounded Man Colour.png",
+                            "scale": 0.6,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Job",
+                            "picture": "Job Sick Colour.png",
+                            "scale": 0.5,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Jonah",
+                            "picture": "Jonah Colour.png",
+                            "scale": 0.4,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Jacob",
+                            "picture": "Jacob.png",
+                            "scale": 0.45,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        }
+                    ]
+                },
+                {
+                    "question": "Who helped the injured man lying on the dirt road?",
+                    "correct_picture": "Good Samaritan Colour.png",
+                    "additional_info": "Jesus never calls this man good, but He does call him a Good Samaritan.",
+                    "info_fontsize": 32,
+                    "characters": [
+                        {
+                            "name": "The Good Samaritan",
+                            "picture": "Good Samaritan Colour.png",
+                            "scale": 0.6,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Paul",
+                            "picture": "Apostle Paul.png",
+                            "scale": 0.5,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Nathan",
+                            "picture": "Nathan Colour.png",
+                            "scale": 0.4,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Benaiah",
+                            "picture": "Benaiah Colour.png",
+                            "scale": 0.45,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        }
+                    ]
+                },
+                {
+                    "question": "Who sat at the feet of Jesus and listened to Him teach?",
+                    "correct_picture": "Mary Martha sister Colour.png",
+                    "additional_info": "Mary poured expensive perfume on Jesus’ feet. The presence of its aroma showed only the best had been offered.",
+                    "info_fontsize": 32,
+                    "characters": [
+                        {
+                            "name": "Mary of Bethany",
+                            "picture": "Mary Martha sister Colour.png",
+                            "scale": 0.6,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Peter",
+                            "picture": "Peter Colour.png",
+                            "scale": 0.5,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Mary Magdalene",
+                            "picture": "Mary Magdalene Colour.png",
+                            "scale": 0.4,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 28
+                        },
+                        {
+                            "name": "Martha",
+                            "picture": "Martha Colour.png",
+                            "scale": 0.45,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        }
+                    ]
+                },
+                {
+                    "question": "Who lost their wealth, health and family for a short period?",
+                    "correct_picture": "Job Colour.png",
+                    "additional_info": "Job said ”Naked I came from my mother’s womb, And naked I shall return there. The Lord gave and the Lord has taken away. Blessed be the name of the Lord.”(Job 1:21)",
+                    "info_fontsize": 24,
+                    "characters": [
+                        {
+                            "name": "Job",
+                            "picture": "Job Colour.png",
+                            "scale": 0.6,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Paul",
+                            "picture": "Apostle Paul.png",
+                            "scale": 0.5,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "David",
+                            "picture": "David Warrior Colour.png",
+                            "scale": 0.4,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 28
+                        },
+                        {
+                            "name": "Samuel",
+                            "picture": "Samuel Colour.png",
+                            "scale": 0.45,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "number": 6,
+            "name": "Level 06",
+            "rank": "Colonel Angel",
+            "rank_texture": "girl_shield",
+            "level_message": "Woo hoo!",
+            "character_spritesheet": "level1",
+            "award_texture": "sword",
+            "award_desc": "Sword of the\n Spirit",
+            "award_verse": "...and the sword of the Spirit, which is the word of God.",
+            "background": "background",
+            "quiz": [
+                {
+                    "question": "Who lived in Ur and moved to a country he did not know?",
+                    "correct_picture": "Abraham.png",
+                    "additional_info": "Abraham was asked by God to leave his family because they worshipped false idols and were a distraction to the plan God set for him.",
+                    "info_fontsize": 30,
+                    "characters": [
+                        {
+                            "name": "Abraham",
+                            "picture": "Abraham.png",
+                            "scale": 0.38,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Jacob",
+                            "picture": "Jacob.png",
+                            "scale": 0.5,
+                            "xoffset": -5,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Joseph",
+                            "picture": "Joseph PM.png",
+                            "scale": 0.55,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Job",
+                            "picture": "Job Colour.png",
+                            "scale": 0.4,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        }
+                    ]
+                },
+                {
+                    "question": "His father was directed to sacrifice him on Mt. Moriah?",
+                    "correct_picture": "Isaac.png",
+                    "additional_info": "Isaac was spared by the divine provision of a ram. He was obedient to his father unto death. (Gen 22:5-12)",
+                    "info_fontsize": 36,
+                    "characters": [
+                        {
+                            "name": "Isaac",
+                            "picture": "Isaac.png",
+                            "scale": 0.5,
+                            "xoffset": 0,
+                            "yoffset": -10,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Jacob",
+                            "picture": "Jacob.png",
+                            "scale": 0.55,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Samuel",
+                            "picture": "Samuel Colour.png",
+                            "scale": 0.5,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "David",
+                            "picture": "David Shepherd Colour.png",
+                            "scale": 0.5,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        }
+                    ]
+                },
+                {
+                    "question": "I killed an Egyptian taskmaster. Who am I?",
+                    "correct_picture": "Moses Eygpt.png",
+                    "additional_info": "Moses gained education and military training while in the Egyptian court. This would be put to good use later.",
+                    "info_fontsize": 36,
+                    "characters": [
+                        {
+                            "name": "Moses",
+                            "picture": "Moses Eygpt.png",
+                            "scale": 0.55,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Deborah",
+                            "picture": "Deborah.png",
+                            "scale": 0.45,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Elisha",
+                            "picture": "Elisha the Prophet Colour.png",
+                            "scale": 0.55,
+                            "xoffset": -15,
+                            "yoffset": -5,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "David",
+                            "picture": "David Warrior Colour.png",
+                            "scale": 0.4,
+                            "xoffset": -5,
+                            "yoffset": 0,
+                            "labelxoffset": -5,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        }
+                    ]
+                },
+                {
+                    "question": "Which female judge asked Barak to lead her forces against the king of Cannon?",
+                    "correct_picture": "Deborah.png",
+                    "additional_info": "The palm tree that Deborah sat under and judged Israel was a landmark.",
+                    "info_fontsize": 36,
+                    "characters": [
+                        {
+                            "name": "Deborah",
+                            "picture": "Deborah.png",
+                            "scale": 0.45,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Esther",
+                            "picture": "Esther Colour.png",
+                            "scale": 0.5,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Jezebel",
+                            "picture": "Jezebel Colour.png",
+                            "scale": 0.6,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Delilah",
+                            "picture": "Delilah.png",
+                            "scale": 0.55,
+                            "xoffset": 10,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        }
+                    ]
+                },
+                {
+                    "question": "Who killed 1000 Philistines with the jaws of a donkey?",
+                    "correct_picture": "Sampson.png",
+                    "additional_info": "Samson was a Nazarite. They were not allowed to drink wine, touch unclean things or cut their hair. Samson broke all three rules.",
+                    "info_fontsize": 30,
+                    "characters": [
+                        {
+                            "name": "Samson",
+                            "picture": "Sampson.png",
+                            "scale": 0.45,
+                            "xoffset": 0,
+                            "yoffset": -5,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Gideon",
+                            "picture": "Gideon.png",
+                            "scale": 0.6,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Uriah",
+                            "picture": "Uriah the Hittite Colour.png",
+                            "scale": 0.45,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Goliath",
+                            "picture": "Goliath Colour.png",
+                            "scale": 0.4,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        }
+                    ]
+                },
+                {
+                    "question": "Who was told to \"Strike the rock, and water will come out of it for the people to drink.\"?",
+                    "correct_picture": "Moses.png",
+                    "additional_info": "Jesus is our rock!",
+                    "info_fontsize": 36,
+                    "characters": [
+                        {
+                            "name": "Moses",
+                            "picture": "Moses.png",
+                            "scale": 0.6,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Elisha",
+                            "picture": "Elisha the Prophet Colour.png",
+                            "scale": 0.5,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "David",
+                            "picture": "David King.png",
+                            "scale": 0.4,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Elijah",
+                            "picture": "Elijah2.png",
+                            "scale": 0.45,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        }
+                    ]
+                },
+                {
+                    "question": "Who defeated Satan by quoting God's word?",
+                    "correct_picture": "Jesus Scripture Reading.png",
+                    "additional_info": "We are given authority over the enemy in Jesus' name!",
+                    "info_fontsize": 36,
+                    "characters": [
+                        {
+                            "name": "Jesus",
+                            "picture": "Jesus Scripture Reading.png",
+                            "scale": 0.6,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Paul",
+                            "picture": "Apostle Paul.png",
+                            "scale": 0.5,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Elisha",
+                            "picture": "Elisha the Prophet Colour.png",
+                            "scale": 0.4,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Nathan",
+                            "picture": "Nathan Colour.png",
+                            "scale": 0.45,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "number": 7,
+            "name": "Level 07",
+            "rank": "General Angel",
+            "rank_texture": "girl_sword",
+            "level_message": "Excellent!",
+            "character_spritesheet": "level1",
+            "award_texture": "halo",
+            "award_desc": "Halo",
+            "award_verse": "All around him was a glowing halo...",
+            "background": "background",
+            "quiz": [
+                {
+                    "question": "I dedicated my son Samuel to the Lord. Who am I?",
+                    "correct_picture": "Hannah Colour.png",
+                    "additional_info": "Whenever Hannah and Elkanah visited Samuel, she brought him a coat to wear.",
+                    "info_fontsize": 36,
+                    "characters": [
+                        {
+                            "name": "Hannah",
+                            "picture": "Hannah Colour.png",
+                            "scale": 0.38,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Ruth",
+                            "picture": "Ruth Colour.png",
+                            "scale": 0.5,
+                            "xoffset": -5,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Sarah",
+                            "picture": "Sarah.png",
+                            "scale": 0.55,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Abigal",
+                            "picture": "Abigal Colour.png",
+                            "scale": 0.4,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        }
+                    ]
+                },
+                {
+                    "question": "Who said “Am I a dog, that you come to me with sticks?”",
+                    "correct_picture": "Goliath Colour.png",
+                    "additional_info": "Goliath was weighed down with heavy armour and could only engage in close-range combat.",
+                    "info_fontsize": 36,
+                    "characters": [
+                        {
+                            "name": "Goliath",
+                            "picture": "Goliath Colour.png",
+                            "scale": 0.5,
+                            "xoffset": 0,
+                            "yoffset": -10,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Roman Soldier",
+                            "picture": "Roman Soldier Colour.png",
+                            "scale": 0.55,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Egyption Soldier",
+                            "picture": "Egypt Guard.png",
+                            "scale": 0.5,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Amalekite Raider",
+                            "picture": "Amalekite Raider Colour.png",
+                            "scale": 0.5,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 28
+                        }
+                    ]
+                },
+                {
+                    "question": "I first married a fool, then a King. Who am I?",
+                    "correct_picture": "Abigal Colour.png",
+                    "additional_info": "Abigail in her wisdom sorted out the mess her foolish husband got them in.",
+                    "info_fontsize": 36,
+                    "characters": [
+                        {
+                            "name": "Abigal",
+                            "picture": "Abigal Colour.png",
+                            "scale": 0.55,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Esther",
+                            "picture": "Esther Colour.png",
+                            "scale": 0.45,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Sarah",
+                            "picture": "Sarah.png",
+                            "scale": 0.55,
+                            "xoffset": -15,
+                            "yoffset": -5,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Delilah",
+                            "picture": "Delilah.png",
+                            "scale": 0.4,
+                            "xoffset": -5,
+                            "yoffset": 0,
+                            "labelxoffset": -5,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        }
+                    ]
+                },
+                {
+                    "question": "I held King David to account for killing Uriah and stealing his wife. Who am I?",
+                    "correct_picture": "Nathan Colour.png",
+                    "additional_info": "Nathan also told David that he would not be the one to build the Temple.",
+                    "info_fontsize": 36,
+                    "characters": [
+                        {
+                            "name": "Nathan",
+                            "picture": "Nathan Colour.png",
+                            "scale": 0.45,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Elisha",
+                            "picture": "Elisha the Prophet Colour.png",
+                            "scale": 0.5,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Samuel",
+                            "picture": "Samuel Colour.png",
+                            "scale": 0.6,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "David",
+                            "picture": "David Warrior Colour.png",
+                            "scale": 0.55,
+                            "xoffset": 10,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 28
+                        }
+                    ]
+                },
+                {
+                    "question": "I was one of David’s mighty men. Who am I?",
+                    "correct_picture": "Uriah the Hittite Colour.png",
+                    "additional_info": "Uriah had a great sense of duty and loyalty to David. So much so, David had trouble getting rid of him to cover his heinous crime.",
+                    "info_fontsize": 32,
+                    "characters": [
+                        {
+                            "name": "Uriah",
+                            "picture": "Uriah the Hittite Colour.png",
+                            "scale": 0.45,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Solomon",
+                            "picture": "Solomon Colour.png",
+                            "scale": 0.6,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Saul",
+                            "picture": "Saul Colour.png",
+                            "scale": 0.45,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Jonathan",
+                            "picture": "Jonathan Colour.png",
+                            "scale": 0.4,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        }
+                    ]
+                },
+                {
+                    "question": "Who prayed \"Your name is in this temple. And we will cry out to You in our distress, and You will hear and deliver.\"?",
+                    "correct_picture": "King Jehoshaphat Colour.png",
+                    "additional_info": "The battle belongs to the Lord!",
+                    "info_fontsize": 36,
+                    "characters": [
+                        {
+                            "name": "Jehoshaphat",
+                            "picture": "King Jehoshaphat Colour.png",
+                            "scale": 0.6,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "David",
+                            "picture": "David King.png",
+                            "scale": 0.5,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Saul",
+                            "picture": "Saul Colour.png",
+                            "scale": 0.4,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Ahab",
+                            "picture": "Ahab Colour.png",
+                            "scale": 0.45,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        }
+                    ]
+                },
+                {
+                    "question": "Who prayed \"May the Lord our God be with us...may he never leave us nor forsake us. May he turn our hearts to him...\"?",
+                    "correct_picture": "Solomon Colour.png",
+                    "additional_info": "What a good prayer!",
+                    "info_fontsize": 36,
+                    "characters": [
+                        {
+                            "name": "Solomon",
+                            "picture": "Solomon Colour.png",
+                            "scale": 0.6,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "David",
+                            "picture": "David King.png",
+                            "scale": 0.5,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Gideon",
+                            "picture": "Gideon.png",
+                            "scale": 0.4,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Peter",
+                            "picture": "Peter Colour.png",
+                            "scale": 0.45,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        }
+                    ]
+                }
+
+
+            ]
+        },
+        {
+            "number": 8,
+            "name": "Level 08",
+            "rank": "Commander Angel",
+            "rank_texture": "girl_halo",
+            "level_message": "Fantastic!",
+            "character_spritesheet": "level1",
+            "award_texture": "wings",
+            "award_desc": "Wings",
+            "award_verse": "They will soar on wings like eagles...",
+            "background": "background",
+            "quiz": [
+                {
+                    "question": "Who was asked three times by Jesus if they loved Him?",
+                    "correct_picture": "Peter Colour.png",
+                    "additional_info": "He is a good God who loves you!",
+                    "info_fontsize": 36,
+                    "characters": [
+                        {
+                            "name": "Peter",
+                            "picture": "Peter Colour.png",
+                            "scale": 0.6,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Paul",
+                            "picture": "Apostle Paul.png",
+                            "scale": 0.5,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Mary Magdalene",
+                            "picture": "Mary Magdalene Colour.png",
+                            "scale": 0.4,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 28
+                        },
+                        {
+                            "name": "Judas",
+                            "picture": "Judas Colour.png",
+                            "scale": 0.45,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        }
+                    ]
+                },
+                {
+                    "question": "Who asked \"Why does your Teacher eat with tax collectors and sinners?\"",
+                    "correct_picture": "Pharisee Colour.png",
+                    "additional_info": "God desires mercy. He is a merciful God!",
+                    "info_fontsize": 36,
+                    "characters": [
+                        {
+                            "name": "Pharisee",
+                            "picture": "Pharisee Colour.png",
+                            "scale": 0.6,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Pilate",
+                            "picture": "Pilate Colour.png",
+                            "scale": 0.5,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Roman Soldier",
+                            "picture": "Roman Soldier Colour.png",
+                            "scale": 0.4,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Shepherd",
+                            "picture": "Shepherd Colour.png",
+                            "scale": 0.45,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        }
+                    ]
+                },              
+                {
+                    "question": "Who was chosen out of many women to reside in the royal court of Xerxes?",
+                    "correct_picture": "Esther Colour.png",
+                    "additional_info": "Esther succeeded Vashti as queen and was able to save her people.",
+                    "info_fontsize": 36,
+                    "characters": [
+                        {
+                            "name": "Esther",
+                            "picture": "Esther Colour.png",
+                            "scale": 0.38,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Bathsheba",
+                            "picture": "Bathsheba Colour.png",
+                            "scale": 0.5,
+                            "xoffset": -5,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Delilah",
+                            "picture": "Delilah.png",
+                            "scale": 0.55,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Hannah",
+                            "picture": "Hannah Colour.png",
+                            "scale": 0.4,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        }
+                    ]
+                },
+                {
+                    "question": "Who ate grass for 7 years?",
+                    "correct_picture": "Nebuchadnezzar.png",
+                    "additional_info": "Pride leads to the abuse of power. At the end of seven years, Nebuchadnezzar’s reason returned and blessed the Most High. Dan 4:34",
+                    "info_fontsize": 30,
+                    "characters": [
+                        {
+                            "name": "Nebuchadnezzar",
+                            "picture": "Nebuchadnezzar.png",
+                            "scale": 0.5,
+                            "xoffset": 0,
+                            "yoffset": -10,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 28
+                        },
+                        {
+                            "name": "Ishbosheth",
+                            "picture": "Ishbosheth Colour.png",
+                            "scale": 0.55,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Possessed Man",
+                            "picture": "Demon Possessed Man Colour.png",
+                            "scale": 0.5,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 28
+                        },
+                        {
+                            "name": "Witch of Endor",
+                            "picture": "Witch of Endor Colour.png",
+                            "scale": 0.5,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        }
+                    ]
+                },
+                {
+                    "question": "He was taken hostage by Nebuchadnezzar on the first attack on Jerusalem?",
+                    "correct_picture": "Daniel.png",
+                    "additional_info": "God gave Daniel and his friends 10x the knowledge and wisdom of all the magicians. Additional gifts were given to Daniel to understand visions and dreams. (Dan 1:17-20)",
+                    "info_fontsize": 28,
+                    "characters": [
+                        {
+                            "name": "Daniel",
+                            "picture": "Daniel.png",
+                            "scale": 0.55,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Asahel",
+                            "picture": "Asahel Colour.png",
+                            "scale": 0.45,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Jehu",
+                            "picture": "Jehu Colour.png",
+                            "scale": 0.55,
+                            "xoffset": -15,
+                            "yoffset": -5,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Samson",
+                            "picture": "Sampson.png",
+                            "scale": 0.4,
+                            "xoffset": -5,
+                            "yoffset": 0,
+                            "labelxoffset": -5,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        }
+                    ]
+                },
+                {
+                    "question": "I am a wicked queen who killed prophets. Who am I?",
+                    "correct_picture": "Jezebel Colour.png",
+                    "additional_info": "Jehu disposed of Jezebel by having her thrown out the palace window.",
+                    "info_fontsize": 28,
+                    "characters": [
+                        {
+                            "name": "Jezebel",
+                            "picture": "Jezebel Colour.png",
+                            "scale": 0.45,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Egyptian Queen",
+                            "picture": "Egypt Queen.png",
+                            "scale": 0.5,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 30
+                        },
+                        {
+                            "name": "Esther",
+                            "picture": "Esther Colour.png",
+                            "scale": 0.6,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Queen of Sheba",
+                            "picture": "Queen Sheba Colour.png",
+                            "scale": 0.55,
+                            "xoffset": 10,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 30
+                        }
+                    ]
+                },
+                {
+                    "question": "I travelled far to speak to the wisest man on earth. Who am I?",
+                    "correct_picture": "Queen Sheba Colour.png",
+                    "additional_info": "The Queen of Sheba came to Jerusalem with a camel train of gold, spices and precious stones.",
+                    "info_fontsize": 32,
+                    "characters": [
+                        {
+                            "name": "Queen of Sheba",
+                            "picture": "Queen Sheba Colour.png",
+                            "scale": 0.45,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Wiseman",
+                            "picture": "Wiseman 1 Colour.png",
+                            "scale": 0.6,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Joseph",
+                            "picture": "Joseph PM.png",
+                            "scale": 0.45,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        },
+                        {
+                            "name": "Solomon",
+                            "picture": "Solomon Colour.png",
+                            "scale": 0.4,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "labelxoffset": 0,
+                            "labelyoffset": 0,
+                            "fontSize": 32
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "number": 9,
+            "name": "Level 09",
+            "rank": "Arch Angel",
+            "rank_texture": "girl_wings",
+            "level_message": "Almost There!",
+            "character_spritesheet": "level1",
+            "award_texture": "wings",
+            "award_desc": "Wings",
+            "award_verse": "They will soar on wings like eagles...",
+            "background": "background",
+            "quiz": []
+        }
+    ]
+}

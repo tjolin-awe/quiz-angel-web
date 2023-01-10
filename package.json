@@ -1,0 +1,31 @@
+{
+  "name": "quiz-angel",
+  "version": "1.0.0",
+  "description": "A FREE grace-game.",
+  "dependencies": {
+    "parcel-bundler": "^1.12.5",
+    "parcel-plugin-static-files-copy": "^2.6.0",
+    "phaser": "^3.55.2",
+    "phaser3-rex-plugins": "^1.1.63"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "parcel index.html",
+    "build": "parcel build index.html --out-dir dist --public-url ./",
+    "start": "parcel index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "quiz-angel"
+  },
+  "parcelCleanPaths": [
+    "dist"
+  ],
+  "staticFiles": {
+    "staticPath": "public",
+    "watcherGlob": "**"
+  },
+  "author": "Thomas Jolin",
+  "license": "ISC"
+}
