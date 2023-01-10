@@ -87,7 +87,7 @@ var gameConfig = {
 		width: width,
 		height: height
 	},
-	type: Phaser.CANVAS,
+	type: Phaser.AUTO,
 	parent: 'phaser-container',
 
 	physics: {
